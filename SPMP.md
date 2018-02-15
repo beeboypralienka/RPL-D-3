@@ -198,3 +198,51 @@ Merekam danmenganalisa project yang akan dibuat.
 **4.3 Fungsi-fungsi pendukung proyek 
 
 Sistem versi berbasis Gradle yang fleksibel
+
+**BAB 5 Paket Pekerjaan, Jadwal, dan Budget**
+
+	**5.1 Paket Pekerjaan**
+	_________________________________________________________________________
+	|    Nama 		 	| Jabatan  			| Modul 			| Pekerjaan  |
+	--------------------------------------------------------------------------
+	| Syahrul Gunawan  	| Project Manager   | 					|			 |
+	--------------------------------------------------------------------------
+	| Eko Prastyo   	| Programmer		| 					|			 |
+	--------------------------------------------------------------------------
+	| Wulan Diani   	| Design 			| 					|			 |
+	--------------------------------------------------------------------------
+
+
+	**5.2 Ketergatungan/Keterkaitan**
+
+	**5.3 Kebutuhan sumber daya**
+		Dibawah ini adalah kebutuhan-kebutuhan yang menunjang jalannya projek antara lain : 
+											Jenis kebutuhan 					Alasan 
+			Sumber Daya Manusia  			3 Orang anggota pekerja 			Mengajukan jumlah 
+                                            Projek    							tersebut di 
+                                            									dikarenakan agar keseimbangan antara pengerjaan projek, 
+                                            									dokumen-dokumen dengan demikian kita dapat mempercepat
+                                            									 proses pekerjaan projek.
+            Sumber Daya Software  			Android Studio						Pegajuan Software  																	   
+																				Android Studio dikarenakan pengerjaan projek melalui 
+																				Java dan agar pengerjaan jauh lebih efisien daripada 
+																				menggunakan 																			
+            																	eclipse.
+            								JDK(Java Development Kit)           Digunakan untuk pembuatan system android.
+            Sumber Daya Hardware 			Perangkat Komputer   				Perangkat induk yang digunakan dalam pengerjaan projek.
+            								Mobile								Sebagai Tester Aplikasi yang sudah dibuat.
+											
+	**5.4 Alokasi *budget* dan sumber daya**
+	 No			Ketergatungan 		Satuan 			Jumlah Barang		Harga			Jumlah Harga
+	1.			Gaji Anggota 			hari 			3				Rp 100.000,00 	Rp 300.000,00
+	
+	2.			WebBrowser				bh			 	1				Rp 20.0000,00	Rp 20.000,00
+
+	3.			Android Studio ,JDK.	Set				1				Rp 50.000,00	Rp 50.000,00
+
+	4.			SewaKomputer			Set				3x6				Rp 500.000,00	Rp 3.000.000,00
+	JUMLAH BIAYA																		Rp 3.370.000,00
+
+	**5.5 Jadwal**
+
+	Pembuatan Aplikasi ini dimulai dari Bulan Febuari Sampai  Bulan April.
