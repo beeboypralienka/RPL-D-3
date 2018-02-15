@@ -166,5 +166,35 @@ Merekam danmenganalisa project yang akan dibuat.
 1.	Syahrul Gunawan	(Manager)
 2.	Eko Prastyo	(Programer)
 3.	Wulan Diani	(Sekretaris)
- 
 
+** Bab 4 Proses teknis ** 
+
+**4.1 moteda , tools , dan teknik 
+
+	4.1.1 Moteda 
+	menguunakan Metoda standart UML ( Unified modeling Language ) digunakan untuk mendesain rancangan sistem dari aplikasi 
+
+	4.1.2 tools 
+	-
+
+	4.1.2.1 Perangkat Keras `
+		1. Laptop 
+
+	4.1.2.2 Perangkat Lunak 
+		1. Android studio 
+			Android studio adalah lingkungan pengembangan terpadu
+		Integrated Development Environment (IDE) untuk pengembangan aplikkasi Android, berdasarkan Intelli J IDEA . Selain merupakan editor kode IntelliJ dan alat pengembang yang berdaya guna, Android Studio menawarkan fitur lebih banyak untuk meningkatkan produktivitas  saat membuat aplikasi android , Misalnya : 
+		* Sistem versi berbasis Gradle yang fleksible 
+		* Emulator yang cepat dan kaya fitur
+		* Lingkungan yang menyatu untuk pengembangan bagi semua perangkat Android
+		* Instant Run untuk mendorong perubahan ke aplikasi yang berjalan tanpa membuat APK baru
+		* Template kode dan integrasi GitHub untuk membuat fitur aplikasi yang sama dan mengimpor kode contoh
+		* Alat pengujian dan kerangka kerja yang ekstensif
+		* Alat Lint untuk meningkatkan kinerja, kegunaan, kompatibilitas versi, dan masalah-masalah lain
+		* Dukungan C++ dan NDK
+		* Dukungan bawaan untuk Google Cloud Platform, mempermudah pengintegrasian Google Cloud Messaging dan App Engine
+**4.2 Dokumentasi perngkat lunak 
+
+**4.3 Fungsi-fungsi pendukung proyek 
+
+Sistem versi berbasis Gradle yang fleksibel
