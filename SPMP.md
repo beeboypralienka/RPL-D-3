@@ -1,4 +1,4 @@
-# SPMP_RPL
+﻿# SPMP_RPL
 **BAB I**
 
 **SOFTWARE PROJECT MANAGEMENT PLAN** 
@@ -49,19 +49,22 @@
 
 **2.1  Model proses**
 
-  	Kami menggunakan Model Proses Dengan Model spiral dalam membangun sistem ini. 
+  	Dalam kesempatan ini kami menggunakan model V-model untuk membuat aplikasinya 	 
 
 **2.2.1 Definisi**
-
-  	Model spiral (spiral model) adalah model proses software yang evolusioner yang merangkai sifat iteratif dari prototipe dengan cara kontrol dan aspek sistematis dari model sekuensial linier.
+	
+  	Merupakan model pengembangan perangkat lunak yang didasarkan pada hubungan antara setiap fase pengembangan siklus hidup yang tercantum dalam model Watterfall yang merupakan pengembangan perangkat lunak dan fase yang terkait pengujian. Bisa dikatakan model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang.
 
 **2.2.2 Kelebihan**
 
-  	Model spiral ini adalah pendekatan yang paling realistik untuk sistem skala besar. Metode ini menggunakan pendekatan evolusioner, sehingga pelanggan dan pengembang dapat mengerti dan bereaksi terhadap suatu resiko yang mungkin terjadi.Model ini membutuhkan konsiderasi langsung terhadap resiko teknis, sehingga diharapkan dapat mengurangi terjadinya resiko yang lebih besar.
+1. V Model sangat fleksibel. V Model mendukung project tailoring dan 	penambahan dan pengurangan method dantool secara dinamik. Akibatnya sangat mudah untuk melakukan tailoring pada V Model agar sesuai dengan suatu proyek tertentu dan sangat mudah untuk menambahkan method dan tool baru atau menghilangkan method dan tool yang dianggap sudah obsolete.
 
-**2.2.3 Keuntungan**
+2. V Model dikembangkan dan di-maintain oleh publik. Userdari V Model berpartisipasi dalam change control boardyang memproses semua change request terhadap V Model.
 
-  	Mungkin akan agak sulit untuk meyakinkan pelanggan besar, bahwa pendekatan evolusioner ini dapat diatur. Hal ini membutuhkan keahlian tersendiri. Selain itu, jika resiko utama tidak ditemukan, maka masalah bisa muncul kemudian. Sehingga membutuhkan kemampuan manajemen dan perkiraan resiko (risk assessment) yang cukup tinggi.
+**2.2.3 Kekurangan**
+
+1. V Model adalah model yang project oriented sehingga hanya bisa digunakan sekali dalam suatu proyek.
+2. V Model terlalu fleksibel dalam arti ada beberapa activitydalam V Model yang digambarkan terlalu abstrak sehingga tidak bisa diketahui dengan jelas apa yang termasuk dalamactivity tersebut dan apa yang tidak.
 
 **2.2.4 Tujuan**
 
@@ -164,7 +167,4 @@ Merekam danmenganalisa project yang akan dibuat.
 2.	Eko Prastyo	(Programer)
 3.	Wulan Diani	(Sekretaris)
  
-
-    
-
 
