@@ -74,21 +74,14 @@
 
 **2.2 Struktur Organisasi**
 
--------------------------------------
-|jabatan 		| Nama 				| 
--------------------------------------
-|Manager 		| Syahrul Gunawan	| 
--------------------------------------
-|Programmer 	| Eko Prastyo		|
--------------------------------------
-|Tester 		| Wulan Diani 		|
--------------------------------------
-|Sekretaris 	| Wulan Diani 		|
--------------------------------------
-|Design			| Syahrul Gunawan	|
--------------------------------------
-|Analisis 		| Eko Prastyo		|
--------------------------------------
+| Jabatan    | Nama            |
+|------------|-----------------|
+| Manager    | Syahrul Gunawan |
+| Programer  | Eko Prastyo     |
+| Tester     | Syahrul Gunawan |
+| Sekretaris | Wulan Diani     |
+| Analisis   | Eko Prastyo     |
+| Design     | Wulan Diani     |
 
 
 
