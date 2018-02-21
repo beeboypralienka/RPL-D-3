@@ -38,10 +38,8 @@
 
   **ESA = European Space Agency**
   **APK = Application Package File**
-
-  	APK *file* (*application package file*) adalah applikasi mentah (bisa disebut installer) dari OS Android.
-
-  	ESA (European Space Agency) merupakan standard perancangan rekayasa perangkat lunak dengan profesi Rekayasa Perangkat Lunak,Standardisasi,dan dukungan proyek.
+  **APK *file* (*application package file*) adalah applikasi mentah (bisa disebut installer) dari OS Android.
+  **ESA (European Space Agency) merupakan standard perancangan rekayasa perangkat lunak dengan profesi Rekayasa Perangkat Lunak,Standardisasi,dan dukungan proyek.
 
 
 **BAB 2 Organisasi Proyek**
@@ -76,9 +74,23 @@
 
 **2.2 Struktur Organisasi**
 
-**|  Ketua |**
+-------------------------------------
+|jabatan 		| Nama 				| 
+-------------------------------------
+|Manager 		| Syahrul Gunawan	| 
+-------------------------------------
+|Programmer 	| Eko Prastyo		|
+-------------------------------------
+|Tester 		| Wulan Diani 		|
+-------------------------------------
+|Sekretaris 	| Wulan Diani 		|
+-------------------------------------
+|Design			| Syahrul Gunawan	|
+-------------------------------------
+|Analisis 		| Eko Prastyo		|
+-------------------------------------
 
-**|Programer|**  ===== **Sekretaris** ===== **Tester**
+
 
 **2.3  Batasan dan Antarmuka Organisasi**
 
