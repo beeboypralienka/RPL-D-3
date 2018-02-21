@@ -94,9 +94,19 @@
 
 **2.3  Batasan dan Antarmuka Organisasi**
 
-  	Ketua dimana harus mejadi pengawas dari anggota – anggotanya bilamana saat anggota lalai dengan tugas – tugasnya, Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk Ketua sendiri tidak berhak semena-mena dengan jabatanya. Tester dimana saat programmer melakukan kesalahan dalam mengkoding tester memiliki tanggung jawab untuk mengecek kesalahan koding – koding yang dilakukan programmer.
-  
-  	Sekertaris  dimana  bertanggung  jawab  untuk  menyimpan  dokumen–dokumen yang diperlukan untuk penggarapan dan hasil akhir project. Programmer dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program.
+| FROM       | TO        | KAITAN                                                                                                                                                                                                                                                    |
+|------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Manager    | Anggota   | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. |
+| Programer  | Tester    | Dikala programmer melakukan kesalahan dalam mengkoding, tester memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer.                                                                                                    |
+| sekertaris | Manager   | Sekertaris bertanggung jawab untuk menyiapkan dokumen-dokumen yang diperlukan untuk penggarapan dan hasil akhir projek.                                                                                                                                   |
+| analisis   | Programer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.                                                                                                                                                                              |
+| Desainer   | Programer | Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis.	
+
+
+
+
+
+
 
 **2.4 Lingkup dan Tanggungjawab**
 
