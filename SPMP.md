@@ -217,15 +217,11 @@ Sistem versi berbasis Gradle yang fleksibel
 **BAB 5 Paket Pekerjaan, Jadwal, dan Budget**
 
 	**5.1 Paket Pekerjaan**
-	_________________________________________________________________________
-	|    Nama 		 	| Jabatan  			| Modul 			| Pekerjaan  |
-	--------------------------------------------------------------------------
-	| Syahrul Gunawan  	| Project Manager   | 					|			 |
-	--------------------------------------------------------------------------
-	| Eko Prastyo   	| Programmer		| 					|			 |
-	--------------------------------------------------------------------------
-	| Wulan Diani   	| Design 			| 					|			 |
-	--------------------------------------------------------------------------
+	| Nama            | Jabatan         | Modul | Pekerjaan |
+	|-----------------|-----------------|-------|-----------|
+	| Syahrul Gunawan | Project Manager |       |           |
+	| Eko Prastyo     | Programer       |       |           |
+	| Wulan Diani     | Design          |       |           |
 
 
 	**5.2 Ketergatungan/Keterkaitan**
