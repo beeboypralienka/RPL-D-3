@@ -1,8 +1,16 @@
 1.	Pendahuluan
 	
 	1.1	Tujuan
+			Dokumen Software Requirement Specification (SRS) merupakan 
+		dokumen spesifikasi perangkat lunak untuk membangun ”Aplikasi Pemesanan Lapangan 
+		Futsal ”. Dokumen ini dibangun untuk memudahkan Prima Fusal  dan Sintia Sinta Futsal .
+		Dalam melakukan proses pemesanan lapangan futsal yang dilakukan oleh penyewa lapangan.
+		Sehingga dokumen ini dapat dijadikan acuan teknis untuk
+		membangun perangkat lunak "APLF" (Aplikasi Pemesanan Lapangan Futsal). 
 
 	1.2	Lingkup proyek
+
+		
 
 	1.3	Definisi,akronim,singkatan
 
