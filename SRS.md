@@ -6,17 +6,21 @@
 		Futsal ”. Dokumen ini dibangun untuk memudahkan Prima Fusal  dan Sintia Sinta Futsal .
 		Dalam melakukan proses pemesanan lapangan futsal yang dilakukan oleh penyewa lapangan.
 		Sehingga dokumen ini dapat dijadikan acuan teknis untuk
-		membangun perangkat lunak "APLF" (Aplikasi Pemesanan Lapangan Futsal). 
+		membangun perangkat lunak "Let's Ball" (Aplikasi Pemesanan Lapangan Futsal). 
 
 	1.2	Lingkup proyek
-
+			Lets's Ball merupakan aplikasi yang kita untuk pengguna bagi
+		kalangan kaun pemuda  buat untuk pemesanan dn penjadwalan penggunaan lapangan futsal , serta dapat memberikan informasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelanggan untuk pemesanan lapangan futsal.
 		
 
 	1.3	Definisi,akronim,singkatan
+		akronim dan singkatan : 
+		| SRS | Softwate Requirement Specification |
+		|-----|------------------------------------|
 
-	1.4 Referensi
-
-	1.5	Overview
+		Definisi :
+		- Software Requirement Specification adalah perangkat lunak yang akan
+		dibuat dan sebagai penyembatani komunikasih pembuat dengan pengguna.
 
 2.	Gambaran Umum
 
