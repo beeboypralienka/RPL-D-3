@@ -22,6 +22,10 @@
 		- Software Requirement Specification adalah perangkat lunak yang akan
 		dibuat dan sebagai penyembatani komunikasih pembuat dengan pengguna.
 
+	1.4 Referensi 
+
+	1.5 Overview 
+
 2.	Gambaran Umum
 
 	2.1	Perspektif produk
