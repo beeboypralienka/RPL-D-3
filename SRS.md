@@ -3,7 +3,7 @@
 	1.1	Tujuan
 			Dokumen Software Requirement Specification (SRS) merupakan 
 		dokumen spesifikasi perangkat lunak untuk membangun ”Aplikasi Pemesanan Lapangan 
-		Futsal ”. Dokumen ini dibangun untuk memudahkan Prima Fusal  dan Sintia Sinta Futsal .
+		Futsal ”. Dokumen ini dibangun untuk memudahkan Satria Shinta Futsal .
 		Dalam melakukan proses pemesanan lapangan futsal yang dilakukan oleh penyewa lapangan.
 		Sehingga dokumen ini dapat dijadikan acuan teknis untuk
 		membangun perangkat lunak "Let's Ball" (Aplikasi Pemesanan Lapangan Futsal). 
@@ -14,17 +14,18 @@
 		
 
 	1.3	Definisi,akronim,singkatan
-		akronim dan singkatan : 
-		| SRS | Softwate Requirement Specification |
-		|-----|------------------------------------|
-
-		Definisi :
-		- Software Requirement Specification adalah perangkat lunak yang akan
-		dibuat dan sebagai penyembatani komunikasih pembuat dengan pengguna.
-
+		| Istilah                             | Definisi                                                                                                                                       |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Software Requirements Specification | Dokumen yang benar-benar menggambarkan semua fungsi dari sistem yang diusulkan dan kendala di mana ia harus beroperasi. Misalnya, dokumen ini. |
+| Database                            | Pengumpulan semua informasi yang dipantau oleh sistem ini                                                                                      |
+| user                                | Reviewer atau Author.                                                    
 	1.4 Referensi 
+	IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements 
+	Specifications. IEEE Computer Society, 1998.
 
 	1.5 Overview 
+	Dokumen skpl ini dibagi menjadi tiga bagian utama. Bagian utama berisi penjelasan tentang dokumen skpl yang mencakup tujuan pembuatan dokuman ini, lingkup masalah yang diselesaikan oleh perangkat lunak yang dikembangkan definisi, referensi, dan deskripsi umum. Bagian kedua berisi
+	penjelasan secara umum mengenai perangkat lunak yang akan dikembangkan meliputi fungsi dari perangkat lunak, karakteristik pngguna, batasan dan asumsi yang diambil dalam pengembangan perangkat lunak. Bagian ketiga berisi uraian kebutuhan perangkat lunak secara lebih rinci.
 
 2.	Gambaran Umum
 
@@ -86,5 +87,6 @@
 	2.6	Kebutuhan-kebutuhan penyeimbang
 
 3.	Kebutuhan lain yang spesifik
+
 4.	Informasi pendukung
 	
