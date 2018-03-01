@@ -1,3 +1,16 @@
+#SOFTWARE REQUIREMENTS SPECIFICATION
+VERSION
+22 Febuari 2018
+Kelompok 3 D3TI2D
+1. Syahrul Gunawan (1603113)
+2. Eko Prastyo (1603096)
+3. Wulan Diani (1603118)
+
+Jurusan D3 Teknik Informatika 
+Politeknik Negeri Indramayu
+
+
+
 1.	Pendahuluan
 	
 	1.1	Tujuan
@@ -14,11 +27,13 @@
 		
 
 	1.3	Definisi,akronim,singkatan
-		| Istilah                             | Definisi                                                                                                                                       |
+		
+| Istilah                             | Definisi                                                                                                                                       |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | Software Requirements Specification | Dokumen yang benar-benar menggambarkan semua fungsi dari sistem yang diusulkan dan kendala di mana ia harus beroperasi. Misalnya, dokumen ini. |
 | Database                            | Pengumpulan semua informasi yang dipantau oleh sistem ini                                                                                      |
-| user                                | Reviewer atau Author.                                                    
+| user                                | Reviewer atau Author.  
+
 	1.4 Referensi 
 	IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements 
 	Specifications. IEEE Computer Society, 1998.
