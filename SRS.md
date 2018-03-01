@@ -63,7 +63,8 @@ Politeknik Negeri Indramayu
 				Mock Up (Rancangan Tampilan)
 				Mobile : 
 				a.Android :
-					-Tampilan Home,Menggunakan tampilan Grid
+					-tampilan awal 
+					![Gambar](/1-tampilan awal.png)
 				PC:
 				B.Website
 					-Tampilan admin
