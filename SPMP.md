@@ -26,7 +26,7 @@ POLITEKNIK NEGERI INDRAMAYU 2018
 
  
 
-**BAB    I**
+**BAB 1**
 
 **PENDAHULUAN**
 
@@ -69,9 +69,9 @@ ESA (European SpaceAgency) merupakan standard perancangan rekayasa perangkat lun
 
 APK *file *adalah aplikasi mentah (bisa disebut *installer*) dari OS Android.
 
-​									**BAB2**
+​**BAB 2**
 
-​							   **ORGANISAIPROYEK**
+​**ORGANISASI PROYEK**
 
 **2.1 Model proses**
 
@@ -127,9 +127,9 @@ Dalam hal ini, seorang programer bertugas untuk mengimplementasikan dari sistem 
 
 Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error yang dilewatkan, maka konsumen akan dirugikan.
 
-​										**BAB3**
+​**BAB3**
 
-​								**PROSES MANAJERIAL**
+​**PROSES MANAJERIAL**
 
 **3.1 Tujuan dan Prioritas Manajemen**
 
@@ -175,11 +175,11 @@ B.Penanganan Resiko
 
 Proses monitoring dilakukan secara tim, adapun proses pelaksanaannya dilakukan setiap satu minggu.
 
-**3.4.2 Kontroling **
+**3.4.2 Kontroling**
 
 Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil kerja proyek dapat dievaluasi pada hari terakhir kerja.
 
-**3.5 Perencanaan Staf **
+**3.5 Perencanaan Staf**
 
 ​									Tabel3.1 Perencanaan staf
 
@@ -187,12 +187,12 @@ Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil ke
 | --------------- | ------------------- |
 | Syahrul Gunawan | Manager             |
 | Eko Prastyo     | Programer           |
-| Tuti Nurafni Amalia     | Skretaris |
+| Tuti Nurafni Amalia     | Sekertaris |
 | Wulan Diani     | Designer |
 
- 									**BAB4**
+**BAB4** 
 
-​						   **METODE,TOOLS,DAN TEKNIK**
+**METODE,TOOLS,DAN TEKNIK**
 
 **4.1 Metoda**
 
@@ -244,9 +244,9 @@ Integrated Development Environment (IDE) untuk pengembangan aplikkasi Android, b
 
 Kami membutuhkan technical support di bagian desain project. Kami membutuhkan technical support di bagian coding program sebanyak 2 orang. Kami membutuhkan specialist di bagian database sebanyak 1 orang.
 
- 											**BAB5**
+**BAB5**
 
-​							**PAKETPEKERJAAN,JADWAL,DAN BUDGET**
+**PAKET PEKERJAAN,JADWAL,DAN BUDGET**
 
 **5.1 Paket pekerjaan**
 
@@ -263,7 +263,7 @@ Kami membutuhkan technical support di bagian desain project. Kami membutuhkan te
 |                  |                   | Cetak  bukti pemesanan          | Membuat  fungsi   Cetak  bukti pemesanan             |
 | Wulandiani       | Designer          | Mockup                          | Membuat  rancangan tampilan                          |
 
- **5.2 Ketergantungan dan Keterkaitan**
+**5.2 Ketergantungan dan Keterkaitan**
 
 ​            Dalam proses pengerjaan proyek yang kami buat ini,keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.
 
