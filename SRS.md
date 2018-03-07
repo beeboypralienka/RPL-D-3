@@ -267,7 +267,7 @@ Antarmuka perangkat keras calon pemesan menggunakandevice *smartphone *android u
 
  
 
-2.2Spesifikasi kebutuhan fungsional
+2.2 Spesifikasi kebutuhan fungsional
 
 ​            A. Usecase admin
 
@@ -302,6 +302,17 @@ Antarmuka perangkat keras calon pemesan menggunakandevice *smartphone *android u
  
 
 2.3Karakteristik pengguna
+
+| Kategori pengguna | Tugas                              | Hak Akses ke Aplikasi |
+|-------------------|------------------------------------|-----------------------|
+| Admin             | CRUD data lapangan                 | Admin                 |
+|                   | CRUD tarif harga lapangan          |                       |
+|                   | mengkonfirmasi data pembayaran     |                       |
+|                   | pendataan pemesanan lapangan       |                       |
+|                   | transaksi pembayaran               |                       |
+| user              | melihat jadwal lapangan kosong     | user pengguna         |
+|                   | menginputkan data booking lapangan |                       |
+|                   | mengkonfirmasi pembayaran          |                       |
 
 2.4Batasan-batasan
 
