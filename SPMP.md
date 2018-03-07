@@ -315,6 +315,8 @@ Tabel5.4 Biaya Software
 
 **5.4.2 Estimasi biaya hardware**
 
+Tabel5.5 Biaya hardware
+
 | **No.** | **Jenis Hardware** | Kebutuhan hardware                              | **Biaya**       |
 | ------- | ------------------ | ----------------------------------------------- | --------------- |
 | 1       | Komputer           | Minimal  Core i3 or     Higher                  | Rp. 7.000.000,- |
@@ -334,3 +336,43 @@ Tabel5.4 Biaya Software
  5.5 Jadwal
 
 Untuk menyelesaikan aplikasi pemesanan lapangan futsal ini diperlukan waktu kurang lebih 4 bulan. Dimana rincian jadwal kerja pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut:
+
+Tabel5.6 Jadwal Perbulan
+
+| No | Kegiatan                  | Februari |    |     |    | Maret |    |     |    | April |    |     |    | Mei |    |     |    |
+|----|---------------------------|----------|----|-----|----|-------|----|-----|----|-------|----|-----|----|-----|----|-----|----|
+|    |                           | I        | II | III | IV | I     | II | III | IV | I     | II | III | IV | I   | II | III | IV |
+| 1  | Identifikasi Masalah      | *        | *  | *   |    |       |    |     |    |       |    |     |    |     |    |     |    |
+| 2  | Analisis Kebutuhan Sistem |          |    |     | *  | *     | *  |     |    |       |    |     |    |     |    |     |    |
+| 3  | Survey                    |          | *  |     |    |       |    |     |    |       |    |     |    |     |    |     |    |
+| 4  | Membuat Proyek            |          |    |     | *  | *     | *  | *   | *  | *     | *  | *   |    |     |    |     |    |
+| 5  | Uji Aplikasi              |          |    |     |    |       |    |     |    |       |    |     | *  |     |    |     |    |
+| 6  | Revisi Aplikasi           |          |    |     |    |       |    |     |    |       |    |     | *  |     |    |     |    |
+| 7  | Implementasi Aplikasi     |          |    |     |    |       |    |     |    |       |    |     |    | *   |    |     |    |
+| 8  | Penyusunan Laporan        |          |    |     |    |       |    |     |    |       |    |     |    |     | *  |     |    |
+| 9  | Presentasi                |          |    |     |    |       |    |     |    |       |    |     |    |     |    | *   |    |
+| 10 | Revisi Laporan            |          |    |     |    |       |    |     |    |       |    |     |    |     |    |     | *  |
+
+
+Tabel5.7 Jadwal Perminggu
+
+| No | Keterangan                                              | Minggu |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+|----|---------------------------------------------------------|--------|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|
+|    |                                                         | 1      | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 1  | Penyusunan proposal dan mencari mitra                   | *      | * |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 2  | Perancangan Aplikasi                                    |        |   | * |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 3  | Perancangan Database                                    |        |   | * |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 4  | Membuat model tampilan                                  |        |   |   | * |   |   |   |   |   |    |    |    |    |    |    |    |
+| 5  | Menyusun Database                                       |        |   |   |   | * |   |   |   |   |    |    |    |    |    |    |    |
+| 6  | Membuat form login                                      |        |   |   |   | * |   |   |   |   |    |    |    |    |    |    |    |
+| 7  | Mencoba dihubungkan dengan database dan input pemesanan |        |   |   |   |   | * |   |   |   |    |    |    |    |    |    |    |
+| 8  | Membuat form input data pemesan                         |        |   |   |   |   |   | * |   |   |    |    |    |    |    |    |    |
+| 9  | Mengecek jumlah pemesan di database                     |        |   |   |   |   |   |   | * |   |    |    |    |    |    |    |    |
+| 10 | Membuat tampilan untuk menampilkan jumlah pemesan       |        |   |   |   |   |   |   |   | * |    |    |    |    |    |    |    |
+| 11 | Membuat bentuk laporan pemesanan                        |        |   |   |   |   |   |   |   |   | *  |    |    |    |    |    |    |
+| 12 | Menambahkan fungsi dapat mencetak laporan pemesanan     |        |   |   |   |   |   |   |   |   |    | *  |    |    |    |    |    |
+| 13 | Mencoba keseluruhan fungsi-fungsi aplikasi              |        |   |   |   |   |   |   |   |   |    |    | *  |    |    |    |    |
+| 14 | Menambahkan fitur lupa password                         |        |   |   |   |   |   |   |   |   |    |    |    | *  |    |    |    |
+| 15 | Menguji kembali fitur-fitur dalam aplikasi              |        |   |   |   |   |   |   |   |   |    |    |    |    | *  |    |    |
+| 16 | Memperbaiki Apabila terjadi kesalahan                   |        |   |   |   |   |   |   |   |   |    |    |    |    |    | *  |    |
+| 17 | Membuat Laporan                                         |        |   |   |   |   |   |   |   |   |    |    |    |    |    |    | *  |
