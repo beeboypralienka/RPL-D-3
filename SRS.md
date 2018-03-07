@@ -172,11 +172,11 @@ PERSYARATAN KEBUTUHAN
 
 3.1 Persyaratan antarmuka eksternal
 
-3.1.1 Antarmuka pemakai
+	3.1.1 Antarmuka pemakai
 
 Pemilik Futsal dan Pelanggan sebagai user yang dapat mengoperasikan aplikasi sistem informasi pemesanan lapangan futsal dengan menggunakan smartphone yang berupa android.
 
-3.1.2 Antarmuka perangkat lunak
+	3.1.2 Antarmuka perangkat lunak
 
 Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki OS android.
 
