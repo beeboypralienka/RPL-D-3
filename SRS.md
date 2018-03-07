@@ -105,9 +105,7 @@ Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android
 
 2.1.5 Antarmuka komunikasi
 
-2.1.6 Batasan-batasan memori
-
-2.1.7 Operasi-operasi
+2.1.6 Operasi-operasi
 
 | Operasi |Fungsi  |
 |--------------|-----------------------------------------|
@@ -128,7 +126,7 @@ Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android
 
 ​ Sistemke admin menampilkan menu login admin. Kemudian menampilkan fiturr manipulasi datalapangan dan tarif harga, menampilan daftar pelanggan yang memesan lapangan. Kemudianmenampilkan konfirmasi pembayaran dan transaksi.
 
-2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi
+2.1.7 Kebutuhan-kebutuhan dalam tahapan adaptasi
 
 2.2 Spesifikasi kebutuhan fungsional
 
@@ -173,7 +171,9 @@ BAB 3
 PERSYARATAN KEBUTUHAN
 
 3.1 Persyaratan antarmuka eksternal
+
 3.2 Persyaratan Fungsional
+
 	3.2.1 Daftar user
 	
 | Nama fungsi | Daftar pelanggan |
@@ -199,5 +199,7 @@ PERSYARATAN KEBUTUHAN
 | Exception push | Halaman pemesanan |<br>
 
 3.3 Struktur detail kebutuhan Non-Fungsional
-3.3.1 Logika Struktur Data<br>
-![enter image description here](https://lh3.googleusercontent.com/-S5Ss0ZEHb-8/Wp_45OtZhlI/AAAAAAAAASA/plSBKH2JflgeUzG5p1dLOxHUg8Na_-_NACL0BGAs/w530-d-h379-n-rw/ERD.png)
+
+3.3.1 Logika Struktur Data
+
+![](https://lh3.googleusercontent.com/-S5Ss0ZEHb-8/Wp_45OtZhlI/AAAAAAAAASA/plSBKH2JflgeUzG5p1dLOxHUg8Na_-_NACL0BGAs/w530-d-h379-n-rw/ERD.png)
