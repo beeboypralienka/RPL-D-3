@@ -32,7 +32,9 @@ Disusunoleh   :
 
 Eko Prastyo                 (1603096)
 
-Syahrul Gunaawan     (1603113)
+Syahrul Gunaawan     		(1603113)
+
+Tuti Nurafni Amalia			(1603116)
 
 Wulandiani                  (1603118)
 
