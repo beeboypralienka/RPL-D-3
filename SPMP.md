@@ -330,7 +330,7 @@ Tabel 5.5 Biaya hardware
 |         |                    | Keyboard                                        | Rp. 50.000,-    |
 |         |                    | Mouse                                           | Rp. 30.000,-    |
 
-5.4.2 Estimasi Biaya Pekerja
+**5.4.2 Estimasi Biaya Pekerja**
 
 | 1    | Manager    | Rp.8000.000  |
 | ---- | ---------- | ------------ |
