@@ -1,10 +1,8 @@
 <div align="center">SOFTWARE REQUIREMENTS SPESIFICATION</div><br>
 <div align="center">Version 1.0</div><br>
 <div align="center">7 Maret 2018</div><br>
+![img](https://lh3.googleusercontent.com/-hJOa3-N3Kr0/Wp_EEVP_gvI/AAAAAAAAAQY/DaG5-yhNAG8ZoKkGNsZpvZ9X-6dSE2mQgCL0BGAs/w530-d-h530-n-rw/POLINDRA.png)
 
-<div align="center">
-![![img]( https://lh3.googleusercontent.com/-onacuhIfe3o/Wo527rrDQxI/AAAAAAAAAIY/vbWMfcRxOQ4Qfsou4ovY6TqzVo_fd5PnwCJoC/w530-h530-n-rw/POLINDRA.png)]        
-</div>                                          
 <div align="center">
 Disusun oleh :
 </div>
@@ -33,20 +31,27 @@ DokumenSoftware Requirement Specification (SRS) merupakan dokumen spesifikasiper
 
 Lets'sBall merupakan aplikasi yang kita untuk pengguna bagi kalangan kaum umum untukpemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikaninformasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelangganuntuk pemesanan lapangan futsal.
 
-1.3  Definsi,akronim,singkatan
+1.3 Definsi,akronim,singkatan
 
-| Istilah | Arti                                             |
-| ------- | ------------------------------------------------ |
-| SRS     | *Software  Requirement Specifications*           |
-| IEEE    | Institute of Electrical and Electronics Engineer |
+Istilah
 
-1.4  Referensi
+Arti
 
-[1]IEEE Software Engineering Standards Committee, “IEEE Std 830-1998, IEEERecommended
+SRS
+
+_Software Requirement Specifications_
+
+IEEE
+
+Institute of Electrical and Electronics Engineer
+
+1.4 Referensi
+
+\[1\]IEEE Software Engineering Standards Committee, “IEEE Std 830-1998, IEEERecommended
 
 Practicefor Software Requirements Specifications”, October 20, 1998.
 
-[2]Feldt R,”re_lecture5b_100914”, unpublished.
+\[2\]Feldt R,”re\_lecture5b\_100914”, unpublished.
 
 BAB 2
 
@@ -59,47 +64,46 @@ Aplikasipemesana lapangan futsal membantu user atau calon pelanggan untuk memesa
 Produk ini memiliki fungsi pemesanan lapangan futsal melalui_mobile apps_. Penggunaan sistemterbagi menjadi dua yaitu antar muka pelaggan menggunakan _mobile apps \*dan antarmuka admi menggunakan \*web apps_.Dibandingkan dengan aplikasi yang sudah ada sebagian besarberbasis website disamping itu belum ada aplikasi yang bernar-benar digunakan.Kemudian aplikasi memiliki keunggulan bisa mencatat transaksi pemesananlapangan untuk pemilik usaha futsal. Selain itu aplikasi ini sebagai promosipemilik futsal untuk meningkatkan pendapatan usahanya.
 
 2.1.1 Antarmuka sistem
-
-![img](https://lh3.googleusercontent.com/-ZHr32IgPcuc/Wp_HunwALqI/AAAAAAAAARE/0XQbDM7HrC4hppc7lRaCL5cYhV9lU7k6wCL0BGAs/w530-d-h187-n-rw/Antarmuka+Sistem.png)
-
+![enter image description here](https://lh3.googleusercontent.com/-ZHr32IgPcuc/Wp_HunwALqI/AAAAAAAAARE/0XQbDM7HrC4hppc7lRaCL5cYhV9lU7k6wCL0BGAs/w530-d-h187-n-rw/Antarmuka+Sistem.png)
+<br>
 Bagian sistem aplikasi untuk sisiuser menggunakan *mobile apps* yang bisa menampilkan menu daftar dan loginsebagai autentifikasi awal masuk ke sistem, kemudian bisa menampilkan formpemesanan lapangan kepada calon pelanggan, selanjutnya sistem mampu menampilkandaftar lapangan yang tersedia dan belum dipesan atau kosong. Disamping itusistem memliki fitur tampilan bukti pemesanan yang dapat dicetak oleh calonpelanggan kemudian mampu mengirim bukti pembayaran ke server.
 
 Bagian sistem aplikasi untuk sisiadmin menggunakan _web apps_. Sistem mampumenampilkan tampilan login admin. Kemudian menampilkan fitur menipulasi datalapangan dan tarif, kemudian memiliki fitur menampilkan konfirmasi pembayaran,selanjutnya sistem mampu menampilkan daftar pelanggan yang memesan. Disampingitu sistem melakukan transaksi pemesanan lapangan.
 
 2.1.2 Antarmuka pengguna
 
-![img](https://lh3.googleusercontent.com/-82R76oif8eA/Wp9qnbhVVBI/AAAAAAAAANc/OMISVh_uyfskuiNxZTuE5dJxkbBatYItwCL0BGAs/w414-d-h736-n-rw/daftar.jpg)
+![](https://lh3.googleusercontent.com/-82R76oif8eA/Wp9qnbhVVBI/AAAAAAAAANc/OMISVh_uyfskuiNxZTuE5dJxkbBatYItwCL0BGAs/w414-d-h736-n-rw/daftar.jpg)
 
 Gambar 2.1 Daftar user
 
 ​ Menudaftar user menggunakan form tampilan text edit,password dan button menggunakanwarna merah dan memiliki latar belakang orang menendang bola ,kemudian terdapatlink login berwaran biru.
 
-![img](https://lh3.googleusercontent.com/-Yzb95U1nufc/Wp9qkgZTegI/AAAAAAAAANQ/q_fNGhPBNKADYXes5v9yuh2b5aY55aJ0gCL0BGAs/w414-d-h736-n-rw/login.jpg)
+![](https://lh3.googleusercontent.com/-Yzb95U1nufc/Wp9qkgZTegI/AAAAAAAAANQ/q_fNGhPBNKADYXes5v9yuh2b5aY55aJ0gCL0BGAs/w414-d-h736-n-rw/login.jpg)
 
 Gambar 2.2 Tampilan login
 
 ​ Tampilanlogin terdapat text edit email dan password dilengkapi icon email dan kunci. Disisiatas terdapat header berwarna merah dengan tulisan berwarna putih. Disisi bawahterdapat button login,link lupa password,dan link register.
 
-![img](https://lh3.googleusercontent.com/-PIzm7F4EZyE/Wp9qhuFa51I/AAAAAAAAANE/m33W0qFaQY45VH-yL0cVt_4DfoHG5A3UQCL0BGAs/w414-d-h736-n-rw/menu%2Bawal.jpg)
+![](https://lh3.googleusercontent.com/-PIzm7F4EZyE/Wp9qhuFa51I/AAAAAAAAANE/m33W0qFaQY45VH-yL0cVt_4DfoHG5A3UQCL0BGAs/w414-d-h736-n-rw/menu%2Bawal.jpg)
 
 Gambar 2.3 Menu awal
 
 ​ Tampilanmenu awal terdapat header berwarna merah dengan tulisan berwarna putih. Kemudiandibawah header terdapat icon fitur utama berwarna merah.
 
-![img](https://lh3.googleusercontent.com/-FEWKudkYP9E/Wp9odATlfuI/AAAAAAAAAMQ/qOPc5y4f5FQ5RPAqPxVC15BRyK9w6rsgQCJoC/w414-h736-n-rw/daftar%2Bllapangan.jpg)
+![](https://lh3.googleusercontent.com/-FEWKudkYP9E/Wp9odATlfuI/AAAAAAAAAMQ/qOPc5y4f5FQ5RPAqPxVC15BRyK9w6rsgQCJoC/w414-h736-n-rw/daftar%2Bllapangan.jpg)
 
 Gambar 2.4 Tampilan list lapangan
 
 ​ Tampilanlist lapangan terdapat header berwarna merah dengan tulisan berwarna putih dandi sisi kiri terdapat icon panah berwarna putih. Kemudian dibawahnya terdapat 3textview dan 2 button.
 
-![img](https://lh3.googleusercontent.com/-Sf8iaxYabm4/Wp9qqfazAzI/AAAAAAAAANo/zLstdCq4wQ016zSE_Y4PuYPK33z_uN_wACL0BGAs/w414-d-h736-n-rw/daftar%2Bpemesan.jpg)
+![](https://lh3.googleusercontent.com/-Sf8iaxYabm4/Wp9qqfazAzI/AAAAAAAAANo/zLstdCq4wQ016zSE_Y4PuYPK33z_uN_wACL0BGAs/w414-d-h736-n-rw/daftar%2Bpemesan.jpg)
 
 Gambar 2.5 Tampilan daftar pemesan
 
 ​ Tampilandaftar menggunakan data tabel berwarana abu dengan jumlah kolom sebanyak 4 kemudiandisetiap baris divarriasi warna putih dan abu-abu.
 
 2.1.3 Antarmuka perangkat keras
-![img](https://lh3.googleusercontent.com/-oBNUr2ecXmM/Wp9r1nNk8AI/AAAAAAAAAOM/slNzD-hEA8cWXpx9QV7D04ue047uR3DxACJoC/w530-h336-n/Antarmuka+Hardware+-+Antarmuka+Hardware%25281%2529.png)
+![enter image description here](https://lh3.googleusercontent.com/-oBNUr2ecXmM/Wp9r1nNk8AI/AAAAAAAAAOM/slNzD-hEA8cWXpx9QV7D04ue047uR3DxACJoC/w530-h336-n/Antarmuka+Hardware+-+Antarmuka+Hardware%25281%2529.png)
 Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android untuk bisamemesan pertama kali device harus terhubung ke internet kemudian membukaaplikasi sistem maka terhubung ke server. Kemudiann antarmuka perangkat kerasadmin menggunakan device computer atau laptop dan pastikan terhubung denganinternet selanjutnya buka website sistem admin.
 
 2.1.4 Antarmuka perangkat lunak
@@ -109,9 +113,8 @@ Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android
 2.1.6 Batasan-batasan memori
 
 2.1.7 Operasi-operasi
-
 | Operasi |Fungsi  |
-|------------------------|-----------------------------------|
+|--|--|
 |Register| Digunakan mendaftar pelanggan|
 |Login| Digunakan masuk akses aplikasi|
 |Booking lapangan| Digunakan memesan lapangan|
@@ -191,4 +194,11 @@ dfjdf
 |Ref  |Bag 2.1.2,Menu   |
 |Trigger | Membuka aplikasi SSAL,user sudah terdaftar |
 | Precondition | Halaman pemesanan |
-| Basic Path | 1. Pelanggan menekan fitur booking lapangan<br>2. Sistem membuka halaman pemesanan<br>3.  |
+| Basic Path | 1. Pelanggan menekan fitur booking lapangan<br>2. Sistem membuka halaman pemesanan<br>3. Pelanggan memilih lapangan dan waktu main  |
+| Alternative | Tidak ada |
+| Post Condition | Pelanggan dapat memesan lapangan  |
+| Exception push | Halaman pemesanan |<br>
+
+3.3 Struktur detail kebutuhan Non-Fungsional
+3.3.1 Logika Struktur Data<br>
+![enter image description here](https://lh3.googleusercontent.com/-S5Ss0ZEHb-8/Wp_45OtZhlI/AAAAAAAAASA/plSBKH2JflgeUzG5p1dLOxHUg8Na_-_NACL0BGAs/w530-d-h379-n-rw/ERD.png)
