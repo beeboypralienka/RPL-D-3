@@ -12,7 +12,7 @@ Eko Prastyo                 (1603096)
 
 Syahrul Gunaawan     		(1603113)
 
-Tuti Nur Afni 				(1603116)
+Tuti Nurafni Amalia 		(1603116)
 
 Wulandiani                  (1603118)
 
@@ -279,7 +279,7 @@ Kami membutuhkan technical support di bagian desain project. Kami membutuhkan te
 
 Tabel 5.2 Kebutuhan Software
 
-| **No.** | **Jenis Software** | **Kebutuhan Software*        |
+| **No.** | **Jenis Software** | **Kebutuhan Software**        |
 | :-----: | ------------------ | ---------------------------- |
 |    1    | Sistem  Operasi    | Windows  8 or Higher         |
 |    2    | Bahasa Pemrograman | Java,HTML,PHP                |
@@ -307,18 +307,18 @@ Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat
 
 Tabel 5.4 Biaya Software
 
-| **No.** | Kebutuhan software  | **Biaya**       |
+| **No.** | **Kebutuhan Software**  | **Biaya**       |
 | ------- | ------------------- | --------------- |
 | 1       | Windows 8 or Higher | Rp. 1.100.000,- |
 | 2       | Android Studio      | Rp. 750.000,-   |
 | 3       | Sublime Text        | Rp. 500.000,-   |
 | 4       | Xampp               | Rp. 500.000,-   |
 
-**5.4.2 Estimasi biaya hardware**
+**5.4.2 Estimasi Biaya Hardware**
 
 Tabel 5.5 Biaya hardware
 
-| **No.** | **Jenis Hardware** | Kebutuhan hardware                              | **Biaya**       |
+| **No.** | **Jenis Hardware** | **Kebutuhan Hardware**                              | **Biaya**       |
 | ------- | ------------------ | ----------------------------------------------- | --------------- |
 | 1       | Komputer           | Minimal  Core i3 or     Higher                  | Rp. 7.000.000,- |
 |         |                    | Minimal 2 GB or Higher                          |                 |
@@ -327,7 +327,7 @@ Tabel 5.5 Biaya hardware
 |         |                    | Keyboard                                        | Rp. 50.000,-    |
 |         |                    | Mouse                                           | Rp. 30.000,-    |
 
-5.4.2 Estimasi biaya Pekerja
+5.4.2 Estimasi Biaya Pekerja
 
 | 1    | Manager    | Rp.8000.000  |
 | ---- | ---------- | ------------ |
