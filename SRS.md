@@ -105,7 +105,15 @@ Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android
 
 2.1.4 Antarmuka perangkat lunak
 
+Tidak ada antarmuka perangkat lain yang dibutuhkan dalam pengembangan Aplikasi Sistem pemesanan lapangan futsal.
+
 2.1.5 Antarmuka komunikasi
+
+ada antarmuka komunikasi yang dibutuhkan dalam aplikasi ini yaitu antarmuka untuk melakukan koneksi dalam jaringan internet yaitu:
+
+    1.Antarmuka komunikasi pada sisi Server
+
+Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HTTP, sebagai protokol yang berbicara menggunakan request dan response menjadikan aplikasi web bergantung kepada siklus ini untuk menghasilkan dokumen yang ingin diakses oleh pengguna. Secara umum, aplikasi web yang akan kita kembangkan harus memiliki satu cara untuk membaca HTTP Request dan mengembalikan HTTP Response ke pengguna.
 
 2.1.6 Operasi-operasi
 
@@ -174,6 +182,15 @@ PERSYARATAN KEBUTUHAN
 
 3.1 Persyaratan antarmuka eksternal
 
+	3.1.1 Antarmuka pemakai
+
+Pemilik Futsal dan Pelanggan sebagai user yang dapat mengoperasikan aplikasi sistem informasi pemesanan lapangan futsal dengan menggunakan smartphone yang berupa android.
+
+	3.1.2 Antarmuka perangkat lunak
+
+Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki OS android.
+
+
 3.2 Persyaratan Fungsional
 
 	3.2.1 Daftar user
@@ -205,3 +222,7 @@ PERSYARATAN KEBUTUHAN
 3.3.1 Logika Struktur Data
 
 ![img](https://lh3.googleusercontent.com/-S5Ss0ZEHb-8/Wp_45OtZhlI/AAAAAAAAASA/plSBKH2JflgeUzG5p1dLOxHUg8Na_-_NACL0BGAs/w530-d-h379-n-rw/ERD.png)
+
+3.3.2 Keamanan
+
+PC tempat admin berada akan memiliki keamanan sendiri. Hanya admin yang memiliki akses fisik ke mesin dan program di dalamnya. Tidak ada perlindungan khusus yang ada di dalam sistem ini.
