@@ -1,4 +1,4 @@
-SOFTWAREREQUIREMENTS SPESIFICATION
+SOFTWARE REQUIREMENTS SPESIFICATION
 
 ![img](https://lh3.googleusercontent.com/-onacuhIfe3o/Wo527rrDQxI/AAAAAAAAAIY/vbWMfcRxOQ4Qfsou4ovY6TqzVo_fd5PnwCJoC/w530-h530-n-rw/POLINDRA.png)                                                                        
 
@@ -32,7 +32,9 @@ Disusunoleh   :
 
 Eko Prastyo                 (1603096)
 
-Syahrul Gunaawan     (1603113)
+Syahrul Gunawan    			(1603113)
+
+Tuti Nurafni Amalia			(1603116)
 
 Wulandiani                  (1603118)
 
@@ -46,9 +48,9 @@ Wulandiani                  (1603118)
 
  
 
-JURUSANTEKNIK INFORMATIKA
+JURUSAN TEKNIK INFORMATIKA
 
-POLITEKNIKNEGERI INDRAMAYU 2018
+POLITEKNIK NEGERI INDRAMAYU 2018
 
  
 
@@ -60,11 +62,11 @@ PENDAHULUAN
 
 1.1  Tujuan
 
-DokumenSoftware Requirement Specification (SRS) merupakan dokumen spesifikasiperangkat lunak untuk membangun ”Aplikasi Pemesanan Lapangan Futsal ”. Dokumenini dibangun untuk memudahkan Prima Fusal dan Sintia Sinta Futsal .Dalam melakukan proses pemesanan lapanganfutsal yang dilakukan oleh penyewa lapangan. Sehingga dokumen ini dapatdijadikan acuan teknis untuk membangun perangkat lunak "Let's Ball" AplikasiPemesanan Lapangan Futsal.
+Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun ”Aplikasi Pemesanan Lapangan Futsal ”. Dokumen ini dibangun untuk memudahkan Prima  Fusal dan Sintia Sinta Futsal .Dalam melakukan proses pemesanan lapanganfutsal yang dilakukan oleh penyewa lapangan. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "Let's Ball" Aplikasi Pemesanan Lapangan Futsal.
 
 1.2  Lingkup proyek
 
-Lets'sBall merupakan aplikasi yang kita untuk pengguna bagi kalangan kaum umum untukpemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikaninformasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelangganuntuk pemesanan lapangan futsal.
+Lets'sBall merupakan aplikasi untuk pengguna kalangan umum untuk pemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikan informasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelanggan untuk pemesanan lapangan futsal.
 
 1.3  Definsi,akronim,singkatan
 
@@ -103,17 +105,17 @@ BAB 2
 
 GAMBARAN UMUM
 
-Aplikasipemesana lapangan futsal membantu user atau calon pelanggan untuk memesanlapangan
+Aplikasi pemesanan lapangan futsal membantu user atau calon pelanggan untuk memesan lapangan,
 
-2.1Perspektif Produk 
+2.1 Perspektif Produk 
 
-Produk ini memiliki fungsi pemesanan lapangan futsal melalui*mobile apps*. Penggunaan sistemterbagi menjadi dua yaitu antar muka pelaggan menggunakan *mobile apps *dan antarmuka admi menggunakan *web apps*.Dibandingkan dengan aplikasi yang sudah ada sebagian besarberbasis website disamping itu belum ada aplikasi yang bernar-benar digunakan.Kemudian aplikasi memiliki keunggulan bisa mencatat transaksi pemesananlapangan untuk pemilik usaha futsal. Selain itu aplikasi ini sebagai promosipemilik futsal untuk meningkatkan pendapatan usahanya.
+Produk ini memiliki fungsi pemesanan lapangan futsal melalui *mobile apps*. Penggunaan sistem terbagi menjadi dua yaitu antar muka pelaggan menggunakan *mobile apps* dan antarmuka admin menggunakan *web apps*.Dibandingkan dengan aplikasi yang sudah ada sebagian besar berbasis website disamping itu belum ada aplikasi yang bernar-benar digunakan.Kemudian aplikasi memiliki keunggulan bisa mencatat transaksi pemesanan lapangan untuk pemilik usaha futsal. Selain itu aplikasi ini sebagai promosi pemilik futsal untuk meningkatkan pendapatan usahanya.
 
 2.1.1 Antarmuka sistem
 
-Bagian sistem aplikasi untuk sisiuser menggunakan *mobile apps *yangbisa menampilkan  menu daftar dan loginsebagai autentifikasi awal masuk ke sistem, kemudian bisa menampilkan formpemesanan lapangan kepada calon pelanggan, selanjutnya sistem mampu menampilkandaftar lapangan yang tersedia dan belum dipesan atau kosong. Disamping itusistem memliki fitur tampilan bukti pemesanan yang dapat dicetak oleh calonpelanggan kemudian mampu mengirim bukti pembayaran ke server.   
+Bagian sistem aplikasi untuk sisi user menggunakan *mobile apps* yang bisa menampilkan menu daftar dan login sebagai autentifikasi awal masuk ke sistem, kemudian bisa menampilkan form pemesanan lapangan kepada calon pelanggan, selanjutnya sistem mampu menampilkan daftar lapangan yang tersedia dan belum dipesan atau kosong. Disamping itu sistem memliki fitur tampilan bukti pemesanan yang dapat dicetak oleh calon pelanggan kemudian mampu mengirim bukti pembayaran ke server.   
 
-Bagian sistem aplikasi untuk sisiadmin menggunakan *web apps*. Sistem mampumenampilkan tampilan login admin. Kemudian menampilkan fitur menipulasi datalapangan dan tarif, kemudian memiliki fitur menampilkan konfirmasi pembayaran,selanjutnya sistem mampu menampilkan daftar pelanggan yang memesan. Disampingitu sistem melakukan transaksi pemesanan lapangan.
+Bagian sistem aplikasi untuk sisi admin menggunakan *web apps*. Sistem mampu menampilkan tampilan login admin. Kemudian menampilkan fitur menipulasi data lapangan dan tarif, kemudian memiliki fitur menampilkan konfirmasi pembayaran,selanjutnya sistem mampu menampilkan daftar pelanggan yang memesan. Disamping itu sistem melakukan transaksi pemesanan lapangan.
 
  
 
@@ -141,13 +143,13 @@ Bagian sistem aplikasi untuk sisiadmin menggunakan *web apps*. Sistem mampumenam
 
 Gambar 2.1 Daftar user
 
-​            Menudaftar user menggunakan form tampilan text edit,password dan button menggunakanwarna merah dan memiliki latar belakang orang menendang bola ,kemudian terdapatlink login berwaran biru.
+​            Menudaftar user menggunakan form tampilan text edit,password dan button menggunakan warna merah dan memiliki latar belakang orang menendang bola ,kemudian terdapat link login berwaran biru.
 
 ![img](https://lh3.googleusercontent.com/-Yzb95U1nufc/Wp9qkgZTegI/AAAAAAAAANQ/q_fNGhPBNKADYXes5v9yuh2b5aY55aJ0gCL0BGAs/w414-d-h736-n-rw/login.jpg)
 
 Gambar 2.2 Tampilan login
 
-​            Tampilanlogin terdapat text edit email dan password dilengkapi icon email dan kunci. Disisiatas terdapat header berwarna merah dengan tulisan berwarna putih. Disisi bawahterdapat button login,link lupa password,dan link register.
+​            Tampilan login terdapat text edit email dan password dilengkapi icon email dan kunci. di sisi atas terdapat header berwarna merah dengan tulisan berwarna putih. di sisi bawah terdapat button login,link lupa password,dan link register.
 
  
 
@@ -171,13 +173,13 @@ Gambar 2.2 Tampilan login
 
 Gambar 2.3 Menu awal
 
-​            Tampilanmenu awal terdapat header berwarna merah dengan tulisan berwarna putih. Kemudiandibawah header terdapat icon fitur utama berwarna merah.
+​            Tampilan menu awal terdapat header berwarna merah dengan tulisan berwarna putih. Kemudian dibawah header terdapat icon fitur utama berwarna merah.
 
 ![img](https://lh3.googleusercontent.com/-FEWKudkYP9E/Wp9odATlfuI/AAAAAAAAAMQ/qOPc5y4f5FQ5RPAqPxVC15BRyK9w6rsgQCJoC/w414-h736-n-rw/daftar%2Bllapangan.jpg)
 
 Gambar 2.4 Tampilan list lapangan
 
-​            Tampilanlist lapangan terdapat header berwarna merah dengan tulisan berwarna putih dandi sisi kiri terdapat icon panah berwarna putih. Kemudian dibawahnya terdapat 3textview dan 2 button.
+​            Tampilan list lapangan terdapat header berwarna merah dengan tulisan berwarna putih dan di sisi kiri terdapat icon panah berwarna putih. Kemudian di bawahnya terdapat 3 textview dan 2 button.
 
  
 
@@ -201,7 +203,7 @@ Gambar 2.4 Tampilan list lapangan
 
 Gambar 2.5 Tampilan daftar pemesan
 
-​            Tampilandaftar menggunakan data tabel berwarana abu dengan jumlah kolom sebanyak 4 kemudiandisetiap baris divarriasi warna putih dan abu-abu. 
+​            Tampilan daftar menggunakan data tabel berwarana abu dengan jumlah kolom sebanyak 4 kemudian di setiap baris di variasi warna putih dan abu-abu. 
 
  
 
@@ -241,7 +243,7 @@ Gambar 2.5 Tampilan daftar pemesan
 
  
 
-Antarmuka perangkat keras calon pemesan menggunakandevice *smartphone *android untuk bisamemesan pertama kali device harus terhubung ke internet kemudian membukaaplikasi sistem maka terhubung ke server. Kemudiann antarmuka perangkat kerasadmin menggunakan device computer atau laptop dan pastikan terhubung denganinternet selanjutnya buka website sistem admin.
+Antarmuka perangkat keras calon pemesan menggunakan device *smartphone* android untuk bisa memesan pertama kali device harus terhubung ke internet kemudian membuka aplikasi sistem maka terhubung ke server. Kemudian antarmuka perangkat keras admin menggunakan device komputer atau laptop dan pastikan terhubung dengan internet selanjutnya buka website sistem admin.
 
 2.1.4 Antarmuka perangkat lunak
 
@@ -251,9 +253,9 @@ Antarmuka perangkat keras calon pemesan menggunakandevice *smartphone *android u
 
 2.1.7 Operasi-operasi
 
-​            Sistemke calon pelanggan mampu menampilkan menu login untuk autentifikasi pertama danmenampilkan form pendaftaran pelanggan yang belum memiliki akun, selanjutnya menampilkandaftar lapangan yang tersedia, menampilkan form pemesanan lapangan, menampilkanbukti pemesan untuk dicetak, dan mengirim bukti pembayaran lapangan.
+​            Sistem ke calon pelanggan mampu menampilkan menu login untuk autentifikasi pertama dan menampilkan form pendaftaran pelanggan yang belum memiliki akun, selanjutnya menampilkan daftar lapangan yang tersedia, menampilkan form pemesanan lapangan, menampilkan bukti pemesan untuk dicetak, dan mengirim bukti pembayaran lapangan.
 
-​            Sistemke admin menampilkan menu login admin. Kemudian menampilkan fiturr manipulasi datalapangan dan tarif harga, menampilan daftar pelanggan yang memesan lapangan. Kemudianmenampilkan konfirmasi pembayaran dan transaksi.   
+​            Sistem ke admin menampilkan menu login admin. Kemudian menampilkan fitur manipulasi data lapangan dan tarif harga, menampilkan daftar pelanggan yang memesan lapangan. Kemudian menampilkan konfirmasi pembayaran dan transaksi.   
 
 2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi
 
@@ -265,7 +267,7 @@ Antarmuka perangkat keras calon pemesan menggunakandevice *smartphone *android u
 
  
 
-2.2Spesifikasi kebutuhan fungsional
+2.2 Spesifikasi kebutuhan fungsional
 
 ​            A. Usecase admin
 
@@ -299,13 +301,13 @@ Antarmuka perangkat keras calon pemesan menggunakandevice *smartphone *android u
 
  
 
-2.3Karakteristik pengguna
+2.3 Karakteristik pengguna
 
-2.4Batasan-batasan
+2.4 Batasan-batasan
 
-2.5Asumsi-asumsi dan ketergantungan/keterkaitan
+2.5 Asumsi-asumsi dan ketergantungan/keterkaitan
 
-2.6Kebutuhan-kebutuhan penyeimbang
+2.6 Kebutuhan-kebutuhan penyeimbang
 
  
 
