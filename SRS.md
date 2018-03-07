@@ -303,9 +303,8 @@ Antarmuka perangkat keras calon pemesan menggunakan device *smartphone* android 
 
 2.3 Karakteristik pengguna
 
-<<<<<<< HEAD
 2.4 Batasan-batasan
-=======
+
 | Kategori pengguna | Tugas                              | Hak Akses ke Aplikasi |
 |-------------------|------------------------------------|-----------------------|
 | Admin             | CRUD data lapangan                 | Admin                 |
@@ -318,7 +317,7 @@ Antarmuka perangkat keras calon pemesan menggunakan device *smartphone* android 
 |                   | mengkonfirmasi pembayaran          |                       |
 
 2.4Batasan-batasan
->>>>>>> 21eaa67989a44771f709249d50386cfeba1d54ca
+
 
 2.5 Asumsi-asumsi dan ketergantungan/keterkaitan
 
