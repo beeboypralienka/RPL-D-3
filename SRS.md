@@ -1,6 +1,6 @@
 <div align="center">SOFTWARE REQUIREMENTS SPESIFICATION</div><br>
 <div align="center">Version 1.0</div><br>
-<div align="center">7 Maret 2018<br>
+<div align="center">7 Maret 2018</div><br>
 
 ![enter image description here](https://lh3.googleusercontent.com/f5f0-BxI6LDzD6bvooQXbVf8_EN2BxwaRxZdRM5CdSzp5OL9bh1lqaNDw8wCkIAYtjYvHENJuuo5=s300 "img01")
 
