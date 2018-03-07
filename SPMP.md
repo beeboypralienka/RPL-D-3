@@ -25,8 +25,8 @@ POLITEKNIKNEGERI INDRAMAYU 2018<br>
 <br>
 <br>
 <div align="center">
-<b>BAB 1</b><br>
-PENDAHULUAN
+<b>BAB 1<br>
+PENDAHULUAN</b>
 </div>
 
 **1.1 Gambaran Proyek**
