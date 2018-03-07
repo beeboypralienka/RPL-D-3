@@ -33,17 +33,10 @@ Lets'sBall merupakan aplikasi yang kita untuk pengguna bagi kalangan kaum umum u
 
 1.3 Definsi,akronim,singkatan
 
-Istilah
-
-Arti
-
-SRS
-
-_Software Requirement Specifications_
-
-IEEE
-
-Institute of Electrical and Electronics Engineer
+| Istilah | Arti                                             |
+| ------- | ------------------------------------------------ |
+| SRS     | *Software  Requirement Specifications*           |
+| IEEE    | Institute of Electrical and Electronics Engineer |
 
 1.4 Referensi
 
@@ -59,12 +52,12 @@ GAMBARAN UMUM
 
 Aplikasipemesana lapangan futsal membantu user atau calon pelanggan untuk memesanlapangan
 
-2.1Perspektif Produk
+2.1 Perspektif Produk
 
 Produk ini memiliki fungsi pemesanan lapangan futsal melalui_mobile apps_. Penggunaan sistemterbagi menjadi dua yaitu antar muka pelaggan menggunakan _mobile apps \*dan antarmuka admi menggunakan \*web apps_.Dibandingkan dengan aplikasi yang sudah ada sebagian besarberbasis website disamping itu belum ada aplikasi yang bernar-benar digunakan.Kemudian aplikasi memiliki keunggulan bisa mencatat transaksi pemesananlapangan untuk pemilik usaha futsal. Selain itu aplikasi ini sebagai promosipemilik futsal untuk meningkatkan pendapatan usahanya.
 
 2.1.1 Antarmuka sistem
-![enter image description here](https://lh3.googleusercontent.com/-ZHr32IgPcuc/Wp_HunwALqI/AAAAAAAAARE/0XQbDM7HrC4hppc7lRaCL5cYhV9lU7k6wCL0BGAs/w530-d-h187-n-rw/Antarmuka+Sistem.png)
+![](https://lh3.googleusercontent.com/-ZHr32IgPcuc/Wp_HunwALqI/AAAAAAAAARE/0XQbDM7HrC4hppc7lRaCL5cYhV9lU7k6wCL0BGAs/w530-d-h187-n-rw/Antarmuka+Sistem.png)
 <br>
 Bagian sistem aplikasi untuk sisiuser menggunakan *mobile apps* yang bisa menampilkan menu daftar dan loginsebagai autentifikasi awal masuk ke sistem, kemudian bisa menampilkan formpemesanan lapangan kepada calon pelanggan, selanjutnya sistem mampu menampilkandaftar lapangan yang tersedia dan belum dipesan atau kosong. Disamping itusistem memliki fitur tampilan bukti pemesanan yang dapat dicetak oleh calonpelanggan kemudian mampu mengirim bukti pembayaran ke server.
 
@@ -94,7 +87,7 @@ Gambar 2.3 Menu awal
 
 Gambar 2.4 Tampilan list lapangan
 
-​ Tampilanlist lapangan terdapat header berwarna merah dengan tulisan berwarna putih dandi sisi kiri terdapat icon panah berwarna putih. Kemudian dibawahnya terdapat 3textview dan 2 button.
+​ Tampilan list lapangan terdapat header berwarna merah dengan tulisan berwarna putih dandi sisi kiri terdapat icon panah berwarna putih. Kemudian dibawahnya terdapat 3textview dan 2 button.
 
 ![](https://lh3.googleusercontent.com/-Sf8iaxYabm4/Wp9qqfazAzI/AAAAAAAAANo/zLstdCq4wQ016zSE_Y4PuYPK33z_uN_wACL0BGAs/w414-d-h736-n-rw/daftar%2Bpemesan.jpg)
 
@@ -103,7 +96,9 @@ Gambar 2.5 Tampilan daftar pemesan
 ​ Tampilandaftar menggunakan data tabel berwarana abu dengan jumlah kolom sebanyak 4 kemudiandisetiap baris divarriasi warna putih dan abu-abu.
 
 2.1.3 Antarmuka perangkat keras
+
 ![enter image description here](https://lh3.googleusercontent.com/-oBNUr2ecXmM/Wp9r1nNk8AI/AAAAAAAAAOM/slNzD-hEA8cWXpx9QV7D04ue047uR3DxACJoC/w530-h336-n/Antarmuka+Hardware+-+Antarmuka+Hardware%25281%2529.png)
+
 Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android untuk bisamemesan pertama kali device harus terhubung ke internet kemudian membukaaplikasi sistem maka terhubung ke server. Kemudiann antarmuka perangkat kerasadmin menggunakan device computer atau laptop dan pastikan terhubung denganinternet selanjutnya buka website sistem admin.
 
 2.1.4 Antarmuka perangkat lunak
@@ -114,7 +109,7 @@ Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android
 
 2.1.7 Operasi-operasi
 | Operasi |Fungsi  |
-|--|--|
+|--------------|-----------------------------------------|
 |Register| Digunakan mendaftar pelanggan|
 |Login| Digunakan masuk akses aplikasi|
 |Booking lapangan| Digunakan memesan lapangan|
@@ -171,8 +166,11 @@ Use case: Login
 2.6 Asumsi-asumsi keterkaitan
 
 2.7 Kebutuhan penyeimbang
-dfjdf
-3. Persyaratan Penyeimbang
+
+BAB 3
+
+PERSYARATAN KEBUTUHAN
+
 3.1 Persyaratan antarmuka eksternal
 3.2 Persyaratan Fungsional
 	3.2.1 Daftar user
