@@ -115,45 +115,12 @@ Gambar 2.4 Tampilan list lapangan
 
 ​            Tampilan list lapangan terdapat header berwarna merah dengan tulisan berwarna putih dan di sisi kiri terdapat icon panah berwarna putih. Kemudian di bawahnya terdapat 3 textview dan 2 button.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 ![img](https://lh3.googleusercontent.com/-Sf8iaxYabm4/Wp9qqfazAzI/AAAAAAAAANo/zLstdCq4wQ016zSE_Y4PuYPK33z_uN_wACL0BGAs/w414-d-h736-n-rw/daftar%2Bpemesan.jpg)
 
 Gambar 2.5 Tampilan daftar pemesan
 
 ​            Tampilan daftar menggunakan data tabel berwarana abu dengan jumlah kolom sebanyak 4 kemudian di setiap baris di variasi warna putih dan abu-abu. 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 ![img](https://lh3.googleusercontent.com/-oBNUr2ecXmM/Wp9r1nNk8AI/AAAAAAAAAOM/U2dHFB3b_AAwePMb1a6jS6U-CYzKI9KVACL0BGAs/w530-d-h336-n-rw/Antarmuka%2BHardware%2B-%2BAntarmuka%2BHardware%25281%2529.png)
 
@@ -175,47 +142,15 @@ Antarmuka perangkat keras calon pemesan menggunakan device *smartphone* android 
 
 2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi
 
- 
+2.2 Spesifikasi kebutuhan fungsional
 
- 
-
- 
-
- 
-
-2.2Spesifikasi kebutuhan fungsional
-
-​            A. Usecase admin
+​A. Usecase admin
 
 ![img](https://lh3.googleusercontent.com/-oMzaRahEeOc/Wp9sFFv2HGI/AAAAAAAAAOk/ySSSblqSDlAPgUcRWB5r1jyM16dF9GLdQCL0BGAs/w530-d-h416-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Badmin%25281%2529.png)
 
-![img](https://lh3.googleusercontent.com/-uRmM-vI1VvA/Wp9r9D9d9PI/AAAAAAAAAOY/C6hPd-uAw5wF_YrJG_qqST7Xo_qe-qL7ACL0BGAs/w530-d-h433-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Bpelanggan%25282%2529.png)            B. Usecase calon pelanggan
+![img](https://lh3.googleusercontent.com/-uRmM-vI1VvA/Wp9r9D9d9PI/AAAAAAAAAOY/C6hPd-uAw5wF_YrJG_qqST7Xo_qe-qL7ACL0BGAs/w530-d-h433-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Bpelanggan%25282%2529.png)            
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+B. Usecase calon pelanggan 
 
 2.3 Karakteristik pengguna
 
@@ -232,7 +167,7 @@ Antarmuka perangkat keras calon pemesan menggunakan device *smartphone* android 
 |                   | menginputkan data booking lapangan |                       |
 |                   | mengkonfirmasi pembayaran          |                       |
 
-2.4Batasan-batasan
+2.4 Batasan-batasan
 
 
 2.5 Asumsi-asumsi dan ketergantungan/keterkaitan
