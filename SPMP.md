@@ -25,7 +25,7 @@ POLITEKNIKNEGERI INDRAMAYU 2018<br>
 <br>
 <br>
 <div align="center">
-**BAB 1**<br>
+<b>BAB 1</b><br>
 PENDAHULUAN
 </div>
 
