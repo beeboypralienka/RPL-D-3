@@ -257,11 +257,11 @@ Kami membutuhkan technical support di bagian desain project. Kami membutuhkan te
 |                  |                   | Konfirmasi  pembayaran          | Membuat  fungsi konfirmasi pebayaran calon pelanggan |
 |                  |                   | Transaksi                       | Membuat  fungsi transaksi pemesan lapangan           |
 |                  |                   | Kirim  bukti pembayaran         | Membuat  fungsi kirim bukti pemesanan                |
-| Syahrul  Gunawan | Manager,Programer | Login  calon pelanggan          | Menbuat  fungsi login user                           |
+| Syahrul  Gunawan | Manager,Programer | Form Login          | Menbuat  fungsi login user                           |
 |                  |                   | Data  lapangan kosong           | Membuat  fungsi tampilan data lapangan kosong        |
 |                  |                   | Pemesan  lapangan               | Membuat  fungsi booking lapangan                     |
 |                  |                   | Cetak  bukti pemesanan          | Membuat  fungsi   Cetak  bukti pemesanan             |
-| Tuti Nurafni Amalia | Sekertaris | Pendokumentasian projek dan registrasi pelanggan           |
+| Tuti Nurafni Amalia | Sekertaris | Form Registrasi           |  Membuat  fungsi register user                           |
 | Wulandiani       | Designer          | Mockup                          | Membuat  rancangan tampilan                          |
 
 **5.2 Ketergantungan dan Keterkaitan**
