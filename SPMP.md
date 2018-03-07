@@ -1,34 +1,33 @@
-SOFTWARE PROJECT MANAGEMENT PLAN
 
+<div align="center">SOFTWARE PROJECT MANAGEMENT PLAN</div><br>
+<div align="center">Version 1.0</div><br>
+<div align="center">7 Maret 2018</div><br>
 
 
 ![![img]( https://lh3.googleusercontent.com/-onacuhIfe3o/Wo527rrDQxI/AAAAAAAAAIY/vbWMfcRxOQ4Qfsou4ovY6TqzVo_fd5PnwCJoC/w530-h530-n-rw/POLINDRA.png)]                                                  
 
 ![![img](https://lh3.googleusercontent.com/-onacuhIfe3o/Wo527rrDQxI/AAAAAAAAAIY/vbWMfcRxOQ4Qfsou4ovY6TqzVo_fd5PnwCJoC/w530-h530-n-rw/POLINDRA.png)]
 
-Disusun oleh   :
-
-Eko Prastyo                 (1603096)
-
-Syahrul Gunaawan     		(1603113)
-
-Tuti Nurafni Amalia 		(1603116)
-
-Wulandiani                  (1603118)
-
- 
-
- 
-
-JURUSAN TEKNIK INFORMATIKA
-
-POLITEKNIK NEGERI INDRAMAYU 2018
-
- 
-
-**BAB 1**
-
-**PENDAHULUAN**
+<div align="center">
+Disusun oleh :
+</div>
+<div align="center">
+Eko Prastyo (1603096)<br>
+Syahrul Gunaawan (1603113)<br>
+Tuti Nurafni Amalia (1603116)<br>
+Wulandiani (1603118)
+</div>
+<div align="center">
+JURUSAN TEKNIK INFORMATIKA <br>
+POLITEKNIKNEGERI INDRAMAYU 2018<br>
+</div>
+<br>
+<br>
+<br>
+<div align="center">
+**BAB 1**<br>
+PENDAHULUAN
+</div>
 
 **1.1 Gambaran Proyek**
 
