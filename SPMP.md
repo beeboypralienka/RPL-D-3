@@ -56,7 +56,7 @@ Beberapa studi memberikan blok bangunan untuk penggunaan potensial dalam arsitek
 
 Dalam  penulisan dokumen  pembuatan  projek ini,  ada  beberapa kata  yang mungkin akan sulit dipahami oleh orang awam berikut ini :
 
-Tabel1.1 Akronim
+Tabel 1.1 Akronim
 
 | Singkatan | Arti kata                   |
 | --------- | --------------------------- |
@@ -181,7 +181,7 @@ Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil ke
 
 **3.5 Perencanaan Staf**
 
-​									Tabel3.1 Perencanaan staf
+​Tabel 3.1 Perencanaan staf
 
 | Tim project     | Job                 |
 | --------------- | ------------------- |
@@ -261,13 +261,14 @@ Kami membutuhkan technical support di bagian desain project. Kami membutuhkan te
 |                  |                   | Data  lapangan kosong           | Membuat  fungsi tampilan data lapangan kosong        |
 |                  |                   | Pemesan  lapangan               | Membuat  fungsi booking lapangan                     |
 |                  |                   | Cetak  bukti pemesanan          | Membuat  fungsi   Cetak  bukti pemesanan             |
+| Tuti Nurafni Amalia | Sekertaris | Pendokumentasian projek dan registrasi pelanggan           |
 | Wulandiani       | Designer          | Mockup                          | Membuat  rancangan tampilan                          |
 
 **5.2 Ketergantungan dan Keterkaitan**
 
 ​            Dalam proses pengerjaan proyek yang kami buat ini,keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.
 
-​							Tabel 5.1 Ketergantungan dan Keterkaitan
+​Tabel 5.1 Ketergantungan dan Keterkaitan
 
 | Dari    | Tugas untuk | Keterkaitan                                                  |
 | ------- | ----------- | ------------------------------------------------------------ |
@@ -276,7 +277,7 @@ Kami membutuhkan technical support di bagian desain project. Kami membutuhkan te
 
 **5.3 Kebutuhan Sumber Daya**
 
-Tabel5.2 Kebutuhan Software
+Tabel 5.2 Kebutuhan Software
 
 | **No.** | **Jenis Software** | **Kebutuhan Software*        |
 | :-----: | ------------------ | ---------------------------- |
@@ -287,7 +288,7 @@ Tabel5.2 Kebutuhan Software
 
  
 
-​Tabel5.3 Kebutuhan Hardware
+​Tabel 5.3 Kebutuhan Hardware
 
 | **No.** | **Jenis  Hardware**  | **Kebutuhan Hardware**     |
 | ------- | -------------------- | -------------------------- |
@@ -304,7 +305,7 @@ Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat
 
 **5.4.1 Estimasi biaya software**
 
-Tabel5.4 Biaya Software
+Tabel 5.4 Biaya Software
 
 | **No.** | Kebutuhan software  | **Biaya**       |
 | ------- | ------------------- | --------------- |
@@ -315,7 +316,7 @@ Tabel5.4 Biaya Software
 
 **5.4.2 Estimasi biaya hardware**
 
-Tabel5.5 Biaya hardware
+Tabel 5.5 Biaya hardware
 
 | **No.** | **Jenis Hardware** | Kebutuhan hardware                              | **Biaya**       |
 | ------- | ------------------ | ----------------------------------------------- | --------------- |
@@ -326,7 +327,7 @@ Tabel5.5 Biaya hardware
 |         |                    | Keyboard                                        | Rp. 50.000,-    |
 |         |                    | Mouse                                           | Rp. 30.000,-    |
 
-5.4.2 Estimasi biayaPekerja
+5.4.2 Estimasi biaya Pekerja
 
 | 1    | Manager    | Rp.8000.000  |
 | ---- | ---------- | ------------ |
@@ -337,7 +338,7 @@ Tabel5.5 Biaya hardware
 
 Untuk menyelesaikan aplikasi pemesanan lapangan futsal ini diperlukan waktu kurang lebih 4 bulan. Dimana rincian jadwal kerja pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut:
 
-Tabel5.6 Jadwal Perbulan
+Tabel 5.6 Jadwal Perbulan
 
 | No | Kegiatan                  | Februari |    |     |    | Maret |    |     |    | April |    |     |    | Mei |    |     |    |
 |----|---------------------------|----------|----|-----|----|-------|----|-----|----|-------|----|-----|----|-----|----|-----|----|
@@ -354,7 +355,7 @@ Tabel5.6 Jadwal Perbulan
 | 10 | Revisi Laporan            |          |    |     |    |       |    |     |    |       |    |     |    |     |    |     | *  |
 
 
-Tabel5.7 Jadwal Perminggu
+Tabel 5.7 Jadwal Perminggu
 
 | No | Keterangan                                              | Minggu |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 |----|---------------------------------------------------------|--------|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|
