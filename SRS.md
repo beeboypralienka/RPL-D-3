@@ -32,11 +32,7 @@ Disusunoleh   :
 
 Eko Prastyo                 (1603096)
 
-<<<<<<< HEAD
 Syahrul Gunawan    			(1603113)
-=======
-Syahrul Gunaawan     		(1603113)
->>>>>>> 21eaa67989a44771f709249d50386cfeba1d54ca
 
 Tuti Nurafni Amalia			(1603116)
 
