@@ -34,7 +34,7 @@ POLITEKNIK NEGERI INDRAMAYU 2018
 
 Proyek yang sedang kami buat adalah membangun sebuah aplikasi *mobile* pemesanan lapangan shintiyan futsal. Dalam rencana pembangunan software,banyak hal yang harus diperhatikan oleh konsumen maupun produsen (programmer) terutama dalam hal pengelolaan waktu dan nilai yang harus dikeluarkan. Adanya kesalahan perhitungan tentu akan memberikan kerugian pada kedua pihak, hal-hal seperti yang harus kita minimalisir. Untuk itu sistem ini dibangun dengan fungsi utama melakukan planing terhadap proyek yang akan dibuat atau dipesan oleh konsumen. Dengan adanya fungsi tersebut, sistem ini dapat merencanakan pembuatan sebuah software dengan baik, dan pasti. Tentunya dalam membangun sistem ini kami butuh sebuah tim yang solid agar dalam proses pembuatannya tidak mengalami banyak kendala, tim kami terdiri dari manager,programmer, sekertaris, dan tester. Dengan struktur tim tersebut, kami bermaksud membagi beberapa tugas sesuai kriteria kemampuan masing-masing, yang nantinya satu sama lain diharapkan dapat bekerja sama dan melengkapi satu sama lain, sehingga dapat membangun sistem yang baik sesuai yang konsumen/pasar butuhkan.
 
-**1.2 Dokumen-dokumen dalam proyek**
+**1.2 Dokumen-dokumen Dalam Proyek**
 
 Saat mengerjakan projek ini, pencatatan kegiatan yang telah dilakukan ditulis didalam log book kelompok, anggota yang telah mengerjakan tugas sesuai projek kegiatannya dicatat dalam log book, selain log book dokumen yang berkaitan dengan projek ini meliputi requirtments, penjadwalan, pembagian tugas, dan referensi-referensi yang berkaitan dengan pembuatan projek kami.
 
@@ -42,7 +42,7 @@ Saat mengerjakan projek ini, pencatatan kegiatan yang telah dilakukan ditulis di
 
 Dokumen ini bersifat freeware, jadi siapa saja boleh untuk memanfaatkan dokumen ini untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan dalam  pemanfaatan dokumen ini, seperti menjual belikan dokumen ini secara ilegal,atapun mengubah dokumen tanpa dasar yang jelas.
 
-**1.4 Material acuan**
+**1.4 Material Acuan**
 
 Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar ESA, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses siklus hidup perangkat lunak. Dan juga standar ESA untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum, siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi umum serta mengakui proses, kegiatan dan tugas.
 
@@ -73,7 +73,7 @@ APK *file *adalah aplikasi mentah (bisa disebut *installer*) dari OS Android.
 
 ​**ORGANISASI PROYEK**
 
-**2.1 Model proses**
+**2.1 Model Proses**
 
 Dalam kesempatan ini kami menggunakan model V-model untuk membuat aplikasinya     
 
@@ -137,11 +137,11 @@ Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah sof
 
 Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat,dokumen   projek, jadwal   kegiatan, struktur pembuatan projek dan organisasi
 
-**3.1.2 Kemampuan (Kualitas dan reusability)**
+**3.1.2 Kemampuan (Kualitas dan Reusability)**
 
 Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek,juga berbasis desktop yang membuat konsumen merasa lebih budah dalam interaksinya.
 
-**3.2 Asumsi, Keterkaitan, dan batasan**
+**3.2 Asumsi, Keterkaitan, dan Batasan**
 
 **3.2.1 Asumsi**
 
@@ -179,7 +179,7 @@ Proses monitoring dilakukan secara tim, adapun proses pelaksanaannya dilakukan s
 
 Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil kerja proyek dapat dievaluasi pada hari terakhir kerja.
 
-**3.5 Perencanaan Staf**
+**3.5 Perencanaan Staff**
 
 ​Tabel 3.1 Perencanaan staf
 
@@ -236,11 +236,11 @@ Integrated Development Environment (IDE) untuk pengembangan aplikkasi Android, b
 
 9.Dukungan bawaan untuk Google Cloud Platform, mempermudah pengintegrasian Google Cloud Messaging dan App Engine
 
-**4.2 Dokumentasi perangkat lunak**
+**4.2 Dokumentasi Perangkat Lunak**
 
 ​            Dokumentasi perangkat lunak yang digunakan berdasarkan standar internasional dengan merujuk pada ESA, karena telah menyediakan kerangka kerja yang menghubungkan seluruh spektrum siklus hidup perangkat lunak.
 
-**4.3 Fungsi-fungsi pendukung proyek**
+**4.3 Fungsi-fungsi Pendukung Proyek**
 
 Kami membutuhkan technical support di bagian desain project. Kami membutuhkan technical support di bagian coding program sebanyak 2 orang. Kami membutuhkan specialist di bagian database sebanyak 1 orang.
 
@@ -299,11 +299,11 @@ Tabel 5.2 Kebutuhan Software
 | 5       | Keyboard             | Compatible with Windows    |
 | 6       | Mouse                | Compatible with Windows    |
 
-**5.4 Alokasi budget dan sumber daya**
+**5.4 Alokasi Budget dan Sumber Daya**
 
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
 
-**5.4.1 Estimasi biaya software**
+**5.4.1 Estimasi Biaya Software**
 
 Tabel 5.4 Biaya Software
 
