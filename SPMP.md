@@ -34,7 +34,7 @@ POLITEKNIK NEGERI INDRAMAYU 2018
 
 Proyek yang sedang kami buat adalah membangun sebuah aplikasi *mobile* pemesanan lapangan shintiyan futsal. Dalam rencana pembangunan software,banyak hal yang harus diperhatikan oleh konsumen maupun produsen (programmer) terutama dalam hal pengelolaan waktu dan nilai yang harus dikeluarkan. Adanya kesalahan perhitungan tentu akan memberikan kerugian pada kedua pihak, hal-hal seperti yang harus kita minimalisir. Untuk itu sistem ini dibangun dengan fungsi utama melakukan planing terhadap proyek yang akan dibuat atau dipesan oleh konsumen. Dengan adanya fungsi tersebut, sistem ini dapat merencanakan pembuatan sebuah software dengan baik, dan pasti. Tentunya dalam membangun sistem ini kami butuh sebuah tim yang solid agar dalam proses pembuatannya tidak mengalami banyak kendala, tim kami terdiri dari manager,programmer, sekertaris, dan tester. Dengan struktur tim tersebut, kami bermaksud membagi beberapa tugas sesuai kriteria kemampuan masing-masing, yang nantinya satu sama lain diharapkan dapat bekerja sama dan melengkapi satu sama lain, sehingga dapat membangun sistem yang baik sesuai yang konsumen/pasar butuhkan.
 
-**1.2 Dokumen-dokumen dalam proyek       **
+**1.2 Dokumen-dokumen dalam proyek**
 
 Saat mengerjakan projek ini, pencatatan kegiatan yang telah dilakukan ditulis didalam log book kelompok, anggota yang telah mengerjakan tugas sesuai projek kegiatannya dicatat dalam log book, selain log book dokumen yang berkaitan dengan projek ini meliputi requirtments, penjadwalan, pembagian tugas, dan referensi-referensi yang berkaitan dengan pembuatan projek kami.
 
@@ -73,57 +73,57 @@ APK *file *adalah aplikasi mentah (bisa disebut *installer*) dari OS Android.
 
 ​							   **ORGANISAIPROYEK**
 
-** 2.1 Model proses**
+**2.1 Model proses**
 
 Dalam kesempatan ini kami menggunakan model V-model untuk membuat aplikasinya     
 
-** 2.1.1 Definisi**
+**2.1.1 Definisi**
 
 Merupakan model pengembangan perangkat lunak yang didasarkan pada hubungan antara setiap fase pengembangan siklus hidup yang tercantum dalam model Watterfall yang merupakan pengembangan perangkat lunak dan fase yang terkait pengujian. Bisa dikatakan model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang.
 
-** 2.1.2 Kelebihan**
+**2.1.2 Kelebihan**
 
 1.*V Model* sangat fleksibel. *V Model* mendukung project tailoring dan penambahan dan pengurangan method dan tool secara dinamik. Akibatnya sangat mudah untuk melakukan tailoring pada V Model agar sesuai dengan suatu proyek tertentu dan sangat mudah untuk menambahkan method dan tool baru atau menghilangkan method dan tool yang dianggap sudah obsolete.
 
 2.*V Model* dikembangkan dan di-maintainoleh publik. Userdari *V Model* berpartisipasi dalam change control boardyang memproses semua change requestterhadap *V Model*.
 
-** 2.1.3 Kekurangan**
+**2.1.3 Kekurangan**
 
 1.V Model adalah model yang project oriented sehingga hanya bisa digunakan sekalidalam suatu proyek.
 
 2.V Model terlalu fleksibel dalam arti ada beberapa activity dalam V Model yang digambarkan terlalu abstrak sehingga tidak bisa diketahui dengan jelas apa yang termasuk dalam activity tersebut dan apa yang tidak.
 
-** 2.1.4 Tujuan**
+**2.1.4 Tujuan**
 
 Untuk pengembangan versi pertambahan software secara cepat. untuk menyelesaikan sistem secara global terlebih dahulu, kemudian untuk feature dari sistem akan dikembangkan kemudian. Sehingga mempercepat dalam pengimplementasian project.
 
-** 2.1.5 Cara kerja**
+**2.1.5 Cara kerja**
 
 Bentuk spiral memberikan gambaran bahwa makin iteraksinya membesar, maka menunjuk kan makin lengkapnya versi dari perangkat lunak yang digunakan. Selama awal  sirkuit, objektif,  alternatif dan  batasan didefinisikan  serta  resiko diidentifikasi dan dianalisa. Jika analisa resiko menunjukkan ada ketidak pastian terhadap kebutuhan, maka prototyping harus dibuat pada kuadran engineering. Simulasi dan pemodelan lain dapat digunakan untuk mendefinisikan masalah dan memperbaiki kebutuhan.Pelanggan mengevaluasi hasil engineering (kuadran customer evaluation) dan membuat usulan untuk perbaikan. Berdasarkan masukan dari pelanggan, fase berikutnya adalah planning dan analisis resiko. Setelah analisis resiko, selalu diperiksa apakah proyek diteruskan atau tidak, jika resiko terlalu besar, maka proyek dapat dihentikan.
 
-** 2.2 Struktur Organisasi**
+**2.2 Struktur Organisasi**
 
 ![img](https://lh3.googleusercontent.com/-1wc-Rxvz5Q4/Wp9k0OL70zI/AAAAAAAAAJg/NQOauosBOwYQpEFvmQuhoU_O9bWhy5h1wCL0BGAs/w530-d-h193-n-rw/struktur%2Borganisasi.png)
 
-** 2.3  Batasan dan Antarmuka Organisasi**
+**2.3  Batasan dan Antarmuka Organisasi**
 
 Ketua/manager dimana harus mejadi pengawas dari anggotanya bilamana saat anggota lalai dengan tugasnya, Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk Ketua sendiri tidak berhak semena-mena dengan jabatanya. Tester dimana saat programmer melakukan kesalahan dalam mengkoding tester memiliki tanggung jawab untuk mengecek kesalahan koding yang dilakukan programmer.Designer bertugas membuat perancangan *mockup* aplikasi. Sekertaris  dimana  bertanggung jawab  untuk  menyimpan dokumen–dokumen yang diperlukan untuk penggarapan dan ahsil akhir project. Programmer dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program. Analis dimana dia bertugas memberikan gambaran project dan alur pengkoding pada programmer. 
 
-** 2.4 Lingkup dan Tanggungjawab**
+**2.4 Lingkup dan Tanggungjawab**
 
-** 2.4.1 Penjelasan**
+**2.4.1 Penjelasan**
 
 Lingkup dan tanggungjawab ini berisi tugas dari setiap elemen anggota dalam pembuatan proyek RPL ini.
 
-** 2.4.2 Manager**
+**2.4.2 Manager**
 
 Manager adalah seseorang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim, tidak hanya terfokus pada hal-hal yang teknis sifatnya. Manager juga harus mampu memajemen tim dengan baik, agar target projek dapat tercapai. Selain itu memberi pengarahan, memonitoring kinerja tim, serta membagi tugas juga bagian tanggung jawab dari seorang manager.
 
-** 2.4.3 Programmer**
+**2.4.3 Programmer**
 
 Dalam hal ini, seorang programer bertugas untuk mengimplementasikan dari sistem yang sudah dirancang didesain. Programmer dituntut dapat menuliskan code program dengan baik, dan efesien. Hal ini dimaksudakan untuk menghindari terjadinya banyak error dalam proses implementasinya.
 
-** 2.4.4 Tester**
+**2.4.4 Tester**
 
 Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error yang dilewatkan, maka konsumen akan dirugikan.
 
@@ -131,29 +131,29 @@ Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah sof
 
 ​								**PROSES MANAJERIAL**
 
-** 3.1 Tujuan dan Prioritas Manajemen**
+**3.1 Tujuan dan Prioritas Manajemen**
 
-** 3.1.1 Prioritas Jadwal**
+**3.1.1 Prioritas Jadwal**
 
 Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat,dokumen   projek, jadwal   kegiatan, struktur pembuatan projek dan organisasi
 
-** 3.1.2 Kemampuan (Kualitas dan reusability)**
+**3.1.2 Kemampuan (Kualitas dan reusability)**
 
 Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek,juga berbasis desktop yang membuat konsumen merasa lebih budah dalam interaksinya.
 
-** 3.2 Asumsi, Keterkaitan, dan batasan**
+**3.2 Asumsi, Keterkaitan, dan batasan**
 
-** 3.2.1 Asumsi**
+**3.2.1 Asumsi**
 
 Adapun aplikasi yang sejenis aplikasi manajemen berbasis dekstop, projek yang kami buat membutuhkan unit komputer sebagai media penghubungnya.
 
-** 3.2.2 Keterkaitan dan Batasan**
+**3.2.2 Keterkaitan dan Batasan**
 
 Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, seperti xampp sebagai perantara mysql database. namun ada batasannya. 
 
-** 3.3 Manajemen Resiko**
+**3.3 Manajemen Resiko**
 
-** 3.3.1 Dampak Positif**
+**3.3.1 Dampak Positif**
 
 A.Resiko          
 
@@ -169,17 +169,17 @@ B.Penanganan Resiko
 
 3.Merekam dan menganalisa project yang akan dibuat. 
 
-** 3.4 Mekanisme Monitoring dan Kontroling**
+**3.4 Mekanisme Monitoring dan Kontroling**
 
-** 3.4.1 Monitoring**
+**3.4.1 Monitoring**
 
 Proses monitoring dilakukan secara tim, adapun proses pelaksanaannya dilakukan setiap satu minggu.
 
-** 3.4.2 Kontroling **
+**3.4.2 Kontroling **
 
 Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil kerja proyek dapat dievaluasi pada hari terakhir kerja.
 
-** 3.5 Perencanaan Staf **
+**3.5 Perencanaan Staf **
 
 ​									Tabel3.1 Perencanaan staf
 
@@ -194,17 +194,17 @@ Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil ke
 
 ​						   **METODE,TOOLS,DAN TEKNIK**
 
-** 4.1 Metoda **
+**4.1 Metoda**
 
 Menguunakan Metoda standart UML ( Unified modeling Language ) digunakan untuk mendesain rancangan sistem dari aplikasi 
 
-** 4.1.1 Perangkat Keras `**
+**4.1.1 Perangkat Keras**
 
 ​            1. Laptop
 
 ​            2. Perangkat smartphone        
 
-** 4.1.2 Perangkat Lunak **
+**4.1.2 Perangkat Lunak**
 
 1.Android studio
 
@@ -236,11 +236,11 @@ Integrated Development Environment (IDE) untuk pengembangan aplikkasi Android, b
 
 9.Dukungan bawaan untuk Google Cloud Platform, mempermudah pengintegrasian Google Cloud Messaging dan App Engine
 
-** 4.2 Dokumentasi perangkat lunak **
+**4.2 Dokumentasi perangkat lunak**
 
 ​            Dokumentasi perangkat lunak yang digunakan berdasarkan standar internasional dengan merujuk pada ESA, karena telah menyediakan kerangka kerja yang menghubungkan seluruh spektrum siklus hidup perangkat lunak.
 
-** 4.3 Fungsi-fungsi pendukung proyek **
+**4.3 Fungsi-fungsi pendukung proyek**
 
 Kami membutuhkan technical support di bagian desain project. Kami membutuhkan technical support di bagian coding program sebanyak 2 orang. Kami membutuhkan specialist di bagian database sebanyak 1 orang.
 
@@ -274,7 +274,7 @@ Kami membutuhkan technical support di bagian desain project. Kami membutuhkan te
 | Manager | Programer   | Tugas  manager adalah untuk memberi tugas programmer jika  saat mengerjakan projek anggotanya lalai  dengan tugasnya ketua tersebut berhak untuk menegur anggotanya dan yang  Menjadi anggota tidak berhak untuk melawan. |
 | Manager | Sekretaris  | Meminta  sekretaris untuk mencatat semua dokumentasi pembuatan poyek |
 
-**5.3 Kebutuhan Sumber Daya **
+**5.3 Kebutuhan Sumber Daya**
 
 Tabel5.2 Kebutuhan Software
 
