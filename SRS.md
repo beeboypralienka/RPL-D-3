@@ -33,27 +33,20 @@ DokumenSoftware Requirement Specification (SRS) merupakan dokumen spesifikasiper
 
 Lets'sBall merupakan aplikasi yang kita untuk pengguna bagi kalangan kaum umum untukpemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikaninformasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelangganuntuk pemesanan lapangan futsal.
 
-1.3 Definsi,akronim,singkatan
+1.3  Definsi,akronim,singkatan
 
-Istilah
+| Istilah | Arti                                             |
+| ------- | ------------------------------------------------ |
+| SRS     | *Software  Requirement Specifications*           |
+| IEEE    | Institute of Electrical and Electronics Engineer |
 
-Arti
+1.4  Referensi
 
-SRS
-
-_Software Requirement Specifications_
-
-IEEE
-
-Institute of Electrical and Electronics Engineer
-
-1.4 Referensi
-
-\[1\]IEEE Software Engineering Standards Committee, “IEEE Std 830-1998, IEEERecommended
+[1]IEEE Software Engineering Standards Committee, “IEEE Std 830-1998, IEEERecommended
 
 Practicefor Software Requirements Specifications”, October 20, 1998.
 
-\[2\]Feldt R,”re\_lecture5b\_100914”, unpublished.
+[2]Feldt R,”re_lecture5b_100914”, unpublished.
 
 BAB 2
 
