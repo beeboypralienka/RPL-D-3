@@ -141,7 +141,8 @@ Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android
 
  B. Usecase calon pelanggan
  ![](https://lh3.googleusercontent.com/-uRmM-vI1VvA/Wp9r9D9d9PI/AAAAAAAAAOY/C6hPd-uAw5wF_YrJG_qqST7Xo_qe-qL7ACL0BGAs/w530-d-h433-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Bpelanggan%25282%2529.png) 
-2.2.1 Usecase pelanggan
+
+2.2.1 Usecase pelanggan<br>
 Use case: Login
 2.3 Spesifikasi kebutuhan Non-Fungsional
 
@@ -160,8 +161,9 @@ Use case: Login
 |  |  Konfirmasi pemesan|
 |  |  Melihat data lapangan|
 |  |  Mencetak bukti pemesanan|
-2.5 Batasan-batasan
-	Batasn-batasan yang digunakan pada pengembangan perangkat lunak ini 		adalah :
+
+2.5 Batasan-batasan<br>
+	Batasan-batasan yang digunakan pada pengembangan perangkat lunak ini 		adalah :
  - Perangkat harus terhubung dengan internet
  - Hanya digunakan di wilayah Kabupaten Indramayu
  
