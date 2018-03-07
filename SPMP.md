@@ -1,9 +1,9 @@
 
 <div align="center">SOFTWARE PROJECT MANAGEMENT PLAN<br>
 Version 1.0</div><br>
-7 Maret 2018</div><br>
+7 Maret 2018</div>
 
-![![img]( https://lh3.googleusercontent.com/-onacuhIfe3o/Wo527rrDQxI/AAAAAAAAAIY/vbWMfcRxOQ4Qfsou4ovY6TqzVo_fd5PnwCJoC/w530-h530-n-rw/POLINDRA.png)]        
+![![img]( https://lh3.googleusercontent.com/f5f0-BxI6LDzD6bvooQXbVf8_EN2BxwaRxZdRM5CdSzp5OL9bh1lqaNDw8wCkIAYtjYvHENJuuo5=s300 "img01")        
 
 Disusun oleh :
 
