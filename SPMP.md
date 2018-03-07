@@ -68,9 +68,10 @@ ESA (European SpaceAgency) merupakan standard perancangan rekayasa perangkat lun
 
 APK *file *adalah aplikasi mentah (bisa disebut *installer*) dari OS Android.
 
-​**BAB 2**
-
-​**ORGANISASI PROYEK**
+​<div align="center">
+<b>BAB 2<br>
+​ORGANISASI PROYEK</b>
+</div
 
 **2.1 Model Proses**
 
@@ -126,9 +127,10 @@ Dalam hal ini, seorang programer bertugas untuk mengimplementasikan dari sistem 
 
 Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error yang dilewatkan, maka konsumen akan dirugikan.
 
-​**BAB3**
-
-​**PROSES MANAJERIAL**
+​<div align="center">
+<b>BAB 3<br>
+​PROSES MANAJERIAL</b>
+</div>
 
 **3.1 Tujuan dan Prioritas Manajemen**
 
@@ -189,9 +191,10 @@ Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil ke
 | Tuti Nurafni Amalia     | Sekertaris |
 | Wulan Diani     | Designer |
 
-**BAB4** 
-
-**METODE,TOOLS,DAN TEKNIK**
+<div align="center">
+<b>BAB 4<br>
+​METODE,TOOLS,DAN TEKNIK</b>
+</div>
 
 **4.1 Metoda**
 
@@ -243,9 +246,10 @@ Integrated Development Environment (IDE) untuk pengembangan aplikkasi Android, b
 
 Kami membutuhkan technical support di bagian desain project. Kami membutuhkan technical support di bagian coding program sebanyak 2 orang. Kami membutuhkan specialist di bagian database sebanyak 1 orang.
 
-**BAB5**
-
-**PAKET PEKERJAAN,JADWAL,DAN BUDGET**
+<div align="center">
+<b>BAB 5<br>
+​PAKET PEKERJAAN,JADWAL,DAN BUDGET</b>
+</div>
 
 **5.1 Paket pekerjaan**
 
