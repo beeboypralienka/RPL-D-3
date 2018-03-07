@@ -108,6 +108,7 @@ Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android
 2.1.6 Batasan-batasan memori
 
 2.1.7 Operasi-operasi
+
 | Operasi |Fungsi  |
 |--------------|-----------------------------------------|
 |Register| Digunakan mendaftar pelanggan|
