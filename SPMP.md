@@ -19,7 +19,7 @@ Wulandiani (1603118)
 </div>
 <div align="center">
 JURUSAN TEKNIK INFORMATIKA <br>
-POLITEKNIKNEGERI INDRAMAYU 2018<br>
+POLITEKNIK NEGERI INDRAMAYU 2018<br>
 </div>
 <br>
 <br>
