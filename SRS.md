@@ -1,6 +1,6 @@
 <div align="center">SOFTWARE REQUIREMENTS SPESIFICATION</div><br>
 <div align="center">Version 1.0</div><br>
-<div align="center">7 Maret 2018<br></div>
+<div align="center">7 Maret 2018<br>
 
 ![enter image description here](https://lh3.googleusercontent.com/f5f0-BxI6LDzD6bvooQXbVf8_EN2BxwaRxZdRM5CdSzp5OL9bh1lqaNDw8wCkIAYtjYvHENJuuo5=s300 "img01")
 
@@ -26,11 +26,11 @@ PENDAHULUAN
 </div>
 1.1 Tujuan
 
-Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasiperangkat lunak untuk membangun ”Aplikasi Pemesanan Lapangan Futsal ”. Dokumenini dibangun untuk memudahkan Prima Fusal dan Sintia Sinta Futsal .Dalam melakukan proses pemesanan lapanganfutsal yang dilakukan oleh penyewa lapangan. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "Let's Ball" AplikasiPemesanan Lapangan Futsal.
+DokumenSoftware Requirement Specification (SRS) merupakan dokumen spesifikasiperangkat lunak untuk membangun ”Aplikasi Pemesanan Lapangan Futsal ”. Dokumenini dibangun untuk memudahkan Prima Fusal dan Sintia Sinta Futsal .Dalam melakukan proses pemesanan lapanganfutsal yang dilakukan oleh penyewa lapangan. Sehingga dokumen ini dapatdijadikan acuan teknis untuk membangun perangkat lunak "Let's Ball" AplikasiPemesanan Lapangan Futsal.
 
 1.2 Lingkup proyek
 
-Lets'sBall merupakan aplikasi yang kita untuk pengguna bagi kalangan kaum umum untuk pemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikan informasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelanggan untuk pemesanan lapangan futsal.
+Lets'sBall merupakan aplikasi yang kita untuk pengguna bagi kalangan kaum umum untukpemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikaninformasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelangganuntuk pemesanan lapangan futsal.
 
 1.3 Definsi,akronim,singkatan
 
@@ -51,11 +51,11 @@ BAB 2
 
 GAMBARAN UMUM
 
-Aplikasi pemesanan lapangan futsal membantu user atau calon pelanggan untuk memesan lapangan
+Aplikasipemesana lapangan futsal membantu user atau calon pelanggan untuk memesanlapangan
 
 2.1 Perspektif Produk
 
-Produk ini memiliki fungsi pemesanan lapangan futsal melalui_mobile apps_. Penggunaan sistemterbagi menjadi dua yaitu antar muka pelaggan menggunakan _mobile apps \*dan antarmuka admi menggunakan \*web apps_.Dibandingkan dengan aplikasi yang sudah ada sebagian besar berbasis website disamping itu belum ada aplikasi yang bernar-benar digunakan.Kemudian aplikasi memiliki keunggulan bisa mencatat transaksi pemesanan lapangan untuk pemilik usaha futsal. Selain itu aplikasi ini sebagai promosi pemilik futsal untuk meningkatkan pendapatan usahanya.
+Produk ini memiliki fungsi pemesanan lapangan futsal melalui_mobile apps_. Penggunaan sistemterbagi menjadi dua yaitu antar muka pelaggan menggunakan _mobile apps \*dan antarmuka admi menggunakan \*web apps_.Dibandingkan dengan aplikasi yang sudah ada sebagian besarberbasis website disamping itu belum ada aplikasi yang bernar-benar digunakan.Kemudian aplikasi memiliki keunggulan bisa mencatat transaksi pemesananlapangan untuk pemilik usaha futsal. Selain itu aplikasi ini sebagai promosipemilik futsal untuk meningkatkan pendapatan usahanya.
 
 2.1.1 Antarmuka sistem
 
@@ -159,26 +159,20 @@ Use case: Login
 |  |  Melihat data lapangan|
 |  |  Mencetak bukti pemesanan|
 
-2.5 Batasan-batasan
-
-Batasan-batasan yang digunakan pada pengembangan perangkat lunak ini adalah :
-
+2.5 Batasan-batasan<br>
+	Batasan-batasan yang digunakan pada pengembangan perangkat lunak ini 		adalah :
  - Perangkat harus terhubung dengan internet
  - Hanya digunakan di wilayah Kabupaten Indramayu
+ 
+2.6 Asumsi-asumsi keterkaitan
+
+2.7 Kebutuhan penyeimbang
 
 BAB 3
 
 PERSYARATAN KEBUTUHAN
 
 3.1 Persyaratan antarmuka eksternal
-
-	3.1.1 Antarmuka pemakai
-
-Pemilik Futsal dan Pelanggan sebagai user yang dapat mengoperasikan aplikasi sistem informasi pemesanan lapangan futsal dengan menggunakan smartphone yang berupa android.
-
-	3.1.2 Antarmuka perangkat lunak
-
-Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki OS android.
 
 3.2 Persyaratan Fungsional
 
@@ -211,7 +205,3 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki OS androi
 3.3.1 Logika Struktur Data
 
 ![img](https://lh3.googleusercontent.com/-S5Ss0ZEHb-8/Wp_45OtZhlI/AAAAAAAAASA/plSBKH2JflgeUzG5p1dLOxHUg8Na_-_NACL0BGAs/w530-d-h379-n-rw/ERD.png)
-
-3.3.2 Keamanan
-
-PC tempat admin berada akan memiliki keamanan sendiri. Hanya admin yang memiliki akses fisik ke mesin dan program di dalamnya. Tidak ada perlindungan khusus yang ada di dalam sistem ini.
