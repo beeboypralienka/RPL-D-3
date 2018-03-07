@@ -139,7 +139,7 @@ Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android
 
 ![](https://lh3.googleusercontent.com/-oMzaRahEeOc/Wp9sFFv2HGI/AAAAAAAAAOk/ySSSblqSDlAPgUcRWB5r1jyM16dF9GLdQCL0BGAs/w530-d-h416-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Badmin%25281%2529.png)
 
- B. Usecase calon pelanggan
+ B. Usecase calon pelanggan<br>
  ![](https://lh3.googleusercontent.com/-uRmM-vI1VvA/Wp9r9D9d9PI/AAAAAAAAAOY/C6hPd-uAw5wF_YrJG_qqST7Xo_qe-qL7ACL0BGAs/w530-d-h433-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Bpelanggan%25282%2529.png) 
 
 2.2.1 Usecase pelanggan<br>
