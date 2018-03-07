@@ -1,7 +1,7 @@
 <div align="center">SOFTWARE REQUIREMENTS SPESIFICATION</div><br>
 <div align="center">Version 1.0</div><br>
 <div align="center">7 Maret 2018</div><br>
-![img](https://lh3.googleusercontent.com/-hJOa3-N3Kr0/Wp_EEVP_gvI/AAAAAAAAAQY/DaG5-yhNAG8ZoKkGNsZpvZ9X-6dSE2mQgCL0BGAs/w530-d-h530-n-rw/POLINDRA.png)
+![img9](https://lh3.googleusercontent.com/-hJOa3-N3Kr0/Wp_EEVP_gvI/AAAAAAAAAQY/DaG5-yhNAG8ZoKkGNsZpvZ9X-6dSE2mQgCL0BGAs/w530-d-h530-n-rw/POLINDRA.png)
 
 <div align="center">
 Disusun oleh :
@@ -57,7 +57,7 @@ Aplikasipemesana lapangan futsal membantu user atau calon pelanggan untuk memesa
 Produk ini memiliki fungsi pemesanan lapangan futsal melalui_mobile apps_. Penggunaan sistemterbagi menjadi dua yaitu antar muka pelaggan menggunakan _mobile apps \*dan antarmuka admi menggunakan \*web apps_.Dibandingkan dengan aplikasi yang sudah ada sebagian besarberbasis website disamping itu belum ada aplikasi yang bernar-benar digunakan.Kemudian aplikasi memiliki keunggulan bisa mencatat transaksi pemesananlapangan untuk pemilik usaha futsal. Selain itu aplikasi ini sebagai promosipemilik futsal untuk meningkatkan pendapatan usahanya.
 
 2.1.1 Antarmuka sistem
-![](https://lh3.googleusercontent.com/-ZHr32IgPcuc/Wp_HunwALqI/AAAAAAAAARE/0XQbDM7HrC4hppc7lRaCL5cYhV9lU7k6wCL0BGAs/w530-d-h187-n-rw/Antarmuka+Sistem.png)
+![img9](https://lh3.googleusercontent.com/-ZHr32IgPcuc/Wp_HunwALqI/AAAAAAAAARE/0XQbDM7HrC4hppc7lRaCL5cYhV9lU7k6wCL0BGAs/w530-d-h187-n-rw/Antarmuka+Sistem.png)
 <br>
 Bagian sistem aplikasi untuk sisiuser menggunakan *mobile apps* yang bisa menampilkan menu daftar dan loginsebagai autentifikasi awal masuk ke sistem, kemudian bisa menampilkan formpemesanan lapangan kepada calon pelanggan, selanjutnya sistem mampu menampilkandaftar lapangan yang tersedia dan belum dipesan atau kosong. Disamping itusistem memliki fitur tampilan bukti pemesanan yang dapat dicetak oleh calonpelanggan kemudian mampu mengirim bukti pembayaran ke server.
 
@@ -65,31 +65,31 @@ Bagian sistem aplikasi untuk sisiadmin menggunakan _web apps_. Sistem mampumenam
 
 2.1.2 Antarmuka pengguna
 
-![](https://lh3.googleusercontent.com/-82R76oif8eA/Wp9qnbhVVBI/AAAAAAAAANc/OMISVh_uyfskuiNxZTuE5dJxkbBatYItwCL0BGAs/w414-d-h736-n-rw/daftar.jpg)
+![img8](https://lh3.googleusercontent.com/-82R76oif8eA/Wp9qnbhVVBI/AAAAAAAAANc/OMISVh_uyfskuiNxZTuE5dJxkbBatYItwCL0BGAs/w414-d-h736-n-rw/daftar.jpg)
 
 Gambar 2.1 Daftar user
 
 ​ Menudaftar user menggunakan form tampilan text edit,password dan button menggunakanwarna merah dan memiliki latar belakang orang menendang bola ,kemudian terdapatlink login berwaran biru.
 
-![](https://lh3.googleusercontent.com/-Yzb95U1nufc/Wp9qkgZTegI/AAAAAAAAANQ/q_fNGhPBNKADYXes5v9yuh2b5aY55aJ0gCL0BGAs/w414-d-h736-n-rw/login.jpg)
+![img7](https://lh3.googleusercontent.com/-Yzb95U1nufc/Wp9qkgZTegI/AAAAAAAAANQ/q_fNGhPBNKADYXes5v9yuh2b5aY55aJ0gCL0BGAs/w414-d-h736-n-rw/login.jpg)
 
 Gambar 2.2 Tampilan login
 
 ​ Tampilanlogin terdapat text edit email dan password dilengkapi icon email dan kunci. Disisiatas terdapat header berwarna merah dengan tulisan berwarna putih. Disisi bawahterdapat button login,link lupa password,dan link register.
 
-![](https://lh3.googleusercontent.com/-PIzm7F4EZyE/Wp9qhuFa51I/AAAAAAAAANE/m33W0qFaQY45VH-yL0cVt_4DfoHG5A3UQCL0BGAs/w414-d-h736-n-rw/menu%2Bawal.jpg)
+![img6](https://lh3.googleusercontent.com/-PIzm7F4EZyE/Wp9qhuFa51I/AAAAAAAAANE/m33W0qFaQY45VH-yL0cVt_4DfoHG5A3UQCL0BGAs/w414-d-h736-n-rw/menu%2Bawal.jpg)
 
 Gambar 2.3 Menu awal
 
 ​ Tampilanmenu awal terdapat header berwarna merah dengan tulisan berwarna putih. Kemudiandibawah header terdapat icon fitur utama berwarna merah.
 
-![](https://lh3.googleusercontent.com/-FEWKudkYP9E/Wp9odATlfuI/AAAAAAAAAMQ/qOPc5y4f5FQ5RPAqPxVC15BRyK9w6rsgQCJoC/w414-h736-n-rw/daftar%2Bllapangan.jpg)
+![img5](https://lh3.googleusercontent.com/-FEWKudkYP9E/Wp9odATlfuI/AAAAAAAAAMQ/qOPc5y4f5FQ5RPAqPxVC15BRyK9w6rsgQCJoC/w414-h736-n-rw/daftar%2Bllapangan.jpg)
 
 Gambar 2.4 Tampilan list lapangan
 
 ​ Tampilan list lapangan terdapat header berwarna merah dengan tulisan berwarna putih dandi sisi kiri terdapat icon panah berwarna putih. Kemudian dibawahnya terdapat 3textview dan 2 button.
 
-![](https://lh3.googleusercontent.com/-Sf8iaxYabm4/Wp9qqfazAzI/AAAAAAAAANo/zLstdCq4wQ016zSE_Y4PuYPK33z_uN_wACL0BGAs/w414-d-h736-n-rw/daftar%2Bpemesan.jpg)
+![img4](https://lh3.googleusercontent.com/-Sf8iaxYabm4/Wp9qqfazAzI/AAAAAAAAANo/zLstdCq4wQ016zSE_Y4PuYPK33z_uN_wACL0BGAs/w414-d-h736-n-rw/daftar%2Bpemesan.jpg)
 
 Gambar 2.5 Tampilan daftar pemesan
 
@@ -97,7 +97,7 @@ Gambar 2.5 Tampilan daftar pemesan
 
 2.1.3 Antarmuka perangkat keras
 
-![enter image description here](https://lh3.googleusercontent.com/-oBNUr2ecXmM/Wp9r1nNk8AI/AAAAAAAAAOM/slNzD-hEA8cWXpx9QV7D04ue047uR3DxACJoC/w530-h336-n/Antarmuka+Hardware+-+Antarmuka+Hardware%25281%2529.png)
+![img3](https://lh3.googleusercontent.com/-oBNUr2ecXmM/Wp9r1nNk8AI/AAAAAAAAAOM/slNzD-hEA8cWXpx9QV7D04ue047uR3DxACJoC/w530-h336-n/Antarmuka+Hardware+-+Antarmuka+Hardware%25281%2529.png)
 
 Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android untuk bisamemesan pertama kali device harus terhubung ke internet kemudian membukaaplikasi sistem maka terhubung ke server. Kemudiann antarmuka perangkat kerasadmin menggunakan device computer atau laptop dan pastikan terhubung denganinternet selanjutnya buka website sistem admin.
 
@@ -132,10 +132,10 @@ Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android
 
 ​ A. Usecase admin
 
-![](https://lh3.googleusercontent.com/-oMzaRahEeOc/Wp9sFFv2HGI/AAAAAAAAAOk/ySSSblqSDlAPgUcRWB5r1jyM16dF9GLdQCL0BGAs/w530-d-h416-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Badmin%25281%2529.png)
+![img2](https://lh3.googleusercontent.com/-oMzaRahEeOc/Wp9sFFv2HGI/AAAAAAAAAOk/ySSSblqSDlAPgUcRWB5r1jyM16dF9GLdQCL0BGAs/w530-d-h416-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Badmin%25281%2529.png)
 
  B. Usecase calon pelanggan<br>
- ![](https://lh3.googleusercontent.com/-uRmM-vI1VvA/Wp9r9D9d9PI/AAAAAAAAAOY/C6hPd-uAw5wF_YrJG_qqST7Xo_qe-qL7ACL0BGAs/w530-d-h433-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Bpelanggan%25282%2529.png) 
+ ![img1](https://lh3.googleusercontent.com/-uRmM-vI1VvA/Wp9r9D9d9PI/AAAAAAAAAOY/C6hPd-uAw5wF_YrJG_qqST7Xo_qe-qL7ACL0BGAs/w530-d-h433-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Bpelanggan%25282%2529.png) 
 
 2.2.1 Usecase pelanggan<br>
 Use case: Login
@@ -202,4 +202,4 @@ PERSYARATAN KEBUTUHAN
 
 3.3.1 Logika Struktur Data
 
-![](https://lh3.googleusercontent.com/-S5Ss0ZEHb-8/Wp_45OtZhlI/AAAAAAAAASA/plSBKH2JflgeUzG5p1dLOxHUg8Na_-_NACL0BGAs/w530-d-h379-n-rw/ERD.png)
+![img](https://lh3.googleusercontent.com/-S5Ss0ZEHb-8/Wp_45OtZhlI/AAAAAAAAASA/plSBKH2JflgeUzG5p1dLOxHUg8Na_-_NACL0BGAs/w530-d-h379-n-rw/ERD.png)
