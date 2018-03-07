@@ -32,7 +32,11 @@ Disusunoleh   :
 
 Eko Prastyo                 (1603096)
 
+<<<<<<< HEAD
 Syahrul Gunawan    			(1603113)
+=======
+Syahrul Gunaawan     		(1603113)
+>>>>>>> 21eaa67989a44771f709249d50386cfeba1d54ca
 
 Tuti Nurafni Amalia			(1603116)
 
@@ -303,7 +307,22 @@ Antarmuka perangkat keras calon pemesan menggunakan device *smartphone* android 
 
 2.3 Karakteristik pengguna
 
+<<<<<<< HEAD
 2.4 Batasan-batasan
+=======
+| Kategori pengguna | Tugas                              | Hak Akses ke Aplikasi |
+|-------------------|------------------------------------|-----------------------|
+| Admin             | CRUD data lapangan                 | Admin                 |
+|                   | CRUD tarif harga lapangan          |                       |
+|                   | mengkonfirmasi data pembayaran     |                       |
+|                   | pendataan pemesanan lapangan       |                       |
+|                   | transaksi pembayaran               |                       |
+| user              | melihat jadwal lapangan kosong     | user pengguna         |
+|                   | menginputkan data booking lapangan |                       |
+|                   | mengkonfirmasi pembayaran          |                       |
+
+2.4Batasan-batasan
+>>>>>>> 21eaa67989a44771f709249d50386cfeba1d54ca
 
 2.5 Asumsi-asumsi dan ketergantungan/keterkaitan
 
