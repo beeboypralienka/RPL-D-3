@@ -51,7 +51,7 @@ BAB 2
 
 GAMBARAN UMUM
 
-Aplikasipemesana lapangan futsal membantu user atau calon pelanggan untuk memesanlapangan
+Aplikasi pemesanan lapangan futsal membantu user atau calon pelanggan untuk memesan lapangan
 
 2.1 Perspektif Produk
 
@@ -165,16 +165,20 @@ Batasan-batasan yang digunakan pada pengembangan perangkat lunak ini adalah :
 
  - Perangkat harus terhubung dengan internet
  - Hanya digunakan di wilayah Kabupaten Indramayu
- 
-2.6 Asumsi-asumsi keterkaitan
-
-2.7 Kebutuhan penyeimbang
 
 BAB 3
 
 PERSYARATAN KEBUTUHAN
 
 3.1 Persyaratan antarmuka eksternal
+
+3.1.1 Antarmuka pemakai
+
+Pemilik Futsal dan Pelanggan sebagai user yang dapat mengoperasikan aplikasi sistem informasi pemesanan lapangan futsal dengan menggunakan smartphone yang berupa android.
+
+3.1.2 Antarmuka perangkat lunak
+
+Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki OS android.
 
 3.2 Persyaratan Fungsional
 
@@ -207,3 +211,7 @@ PERSYARATAN KEBUTUHAN
 3.3.1 Logika Struktur Data
 
 ![img](https://lh3.googleusercontent.com/-S5Ss0ZEHb-8/Wp_45OtZhlI/AAAAAAAAASA/plSBKH2JflgeUzG5p1dLOxHUg8Na_-_NACL0BGAs/w530-d-h379-n-rw/ERD.png)
+
+3.3.2 Keamanan
+
+PC tempat admin berada akan memiliki keamanan sendiri. Hanya admin yang memiliki akses fisik ke mesin dan program di dalamnya. Tidak ada perlindungan khusus yang ada di dalam sistem ini.
