@@ -327,3 +327,14 @@ Antarmuka perangkat keras calon pemesan menggunakandevice *smartphone *android u
  
 
  
+
+
+BAB 3
+PERSYARATAN KEBUTUHAN 
+3.1 Persyaratan antar muka 
+
+3.2 Functional Requirement
+
+3.3 Struktur Detail Kebutuhan Non-Fungsional
+3.3.1 Logika Struktur Data
+3.3.2 Keamanan
