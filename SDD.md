@@ -44,5 +44,10 @@ Referensi
 BAB 3
 DFD 
 3.1 Diagram konteks
+
+![img]( Gambar/KONTEXS DIAGRAM.png)        
+
+
+
 3.2 Diagram level 0 
 3.3 Diagram level 1 
